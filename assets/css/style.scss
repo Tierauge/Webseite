@@ -80,7 +80,6 @@ a.navbar-item.is-active {
 
     a {
         min-width: 25vmax;
-        margin: 0.5rem;
     }
 }
 
@@ -89,6 +88,8 @@ a.navbar-item.is-active {
         margin: 0.5rem auto;
         display: flex;
         justify-content: center;
+
+        min-width: 370px;
     }
 
     svg {
@@ -105,6 +106,13 @@ a.navbar-item.is-active {
         background-color: black;
     }
 }
+
+#sprechzeiten {
+    hr {
+        background-color: black;
+    }
+}
+
 
 #blog {
     .hero-body {

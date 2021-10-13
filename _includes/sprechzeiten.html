@@ -1,0 +1,74 @@
+<section class="hero is-fullheight has-text-centered" id="sprechzeiten">
+    <div class="hero-body">
+        <div class="container">
+
+
+            <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
+                Augensprechstunde in Tierarztpraxis Quandt & Bracke
+            </h3>
+
+            <table style="display: flex; justify-content: center;"
+                class="is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold">
+                <tbody>
+                    {% unless site.open-mon == %}
+                    <tr>
+                        <td style="padding:10px">Montag</td>
+                        <td style="padding:10px">{{site.open-mon}}</td>
+                    </tr>
+                    {% endunless %}
+
+                    {% unless site.open-tue == %}
+                    <tr>
+                        <td style="padding:10px">Dienstag</td>
+                        <td style="padding:10px">{{site.open-tue}}</td>
+                    </tr>
+                    {% endunless %}
+
+                    {% unless site.open-wed == %}
+                    <tr>
+                        <td style="padding:10px">Mittwoch</td>
+                        <td style="padding:10px">{{site.open-wed}}</td>
+                    </tr>
+                    {% endunless %}
+
+                    {% unless site.open-thr == %}
+                    <tr>
+                        <td style="padding:10px">Donnerstag</td>
+                        <td style="padding:10px">{{site.open-thr}}</td>
+                    </tr>
+                    {% endunless %}
+
+                    {% unless site.open-fri == %}
+                    <tr>
+                        <td style="padding:10px">Freitag</td>
+                        <td style="padding:10px">{{site.open-fri}}</td>
+                    </tr>
+                    {% endunless %}
+
+
+                    {% unless site.open-sat == %}
+                    <tr>
+                        <td style="padding:10px">Samstag</td>
+                        <td style="padding:10px">{{site.open-sat}}</td>
+                    </tr>
+                    {% endunless %}
+
+
+                    {% unless site.open-sun == %}
+                    <tr>
+                        <td style="padding:10px">Sonntag</td>
+                        <td style="padding:10px">{{site.open-sun}}</td>
+                    </tr>
+                    {% endunless %}
+                </tbody>
+            </table>
+
+            sowie nach Vereinbarung
+            <hr>
+            
+            Notfälle werden auch außerhalb der Sprechzeiten versorgt.
+
+            
+        </div>
+    </div>
+</section>
