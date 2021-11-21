@@ -1,7 +1,7 @@
 ---
 title: Horner Syndrom
 layout: post
-post-image: "../assets/images/eddy.jpg"
+post-image: "../assets/images/horner1.png"
 description: Jekyll is a static site generator. You give it text written in your favorite
   markup language and it uses layouts to create a static website.
 tags:

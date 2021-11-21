@@ -36,6 +36,14 @@
                 <i class="fas fa-phone"></i> {{site.phone}}
             </a>
             {% endunless %}
+
+            {% unless site.mobile == %}
+            <a id="contact-button" href="tel:{{site.phone}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fa fa-mobile"></i> {{site.phone}}
+            </a>
+            {% endunless %}
             
         </div>
     </div>

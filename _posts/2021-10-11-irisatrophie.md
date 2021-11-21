@@ -1,7 +1,7 @@
 ---
 title: Irisatrophie
 layout: post
-post-image: "../assets/images/eddy.jpg"
+post-image: "../assets/images/Irisatrophie.png"
 description: Jekyll is a static site generator. You give it text written in your favorite
   markup language and it uses layouts to create a static website.
 tags:
@@ -15,6 +15,10 @@ Die Muskulatur der Iris kann im Alter abnehmen (Atrophie). Die Folge ist, dass s
 ## Diagnose
 
 Bei der Augenuntersuchung wird die Irisatrophie anhand typischer Kriterien erkannt und von anderen Erkrankungen unterschieden. Typischerweise erscheint der Rand der Pupille unregelmäßig, wie ‚ausgefranst‘ oder weist im fortgeschrittenen Stadium sogar Löcher auf. 
+
+{% figure caption:"**normale Iris links, atrophische Iris rechts:** Bei Lichteinfall bleibt die Pupille weit, es fehlt die normale Engstellung der Pupille" %}
+![Lidrandtumor-OP](../assets/images/Irisatrophie.png)
+{% endfigure %}
 
 ## Symptome
 
