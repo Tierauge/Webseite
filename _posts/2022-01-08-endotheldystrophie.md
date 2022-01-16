@@ -3,10 +3,6 @@ title: Endotheldystrophie
 layout: post
 post-image: "../assets/images/Endotheldystrophiebreit.jpg"
 description: Beschreibung, Auslöser, Ursachen, Diagnose und Therapie beim Hund.
-tags:
-- sample
-- post
-- test
 ---
 
 Die Endotheldystrophie ist eine Erkrankung, bei der sich die Hornhaut Ihres Hundes langsam eintrübt. Diese Erkrankung betrifft v.a. die älteren Tiere. Einige Rassen sind häufiger betroffen als andere wie Dackel und Boston Terrier. 

@@ -3,10 +3,6 @@ title: Allergische Bindehautentzündung/Konjunktivitis
 layout: post
 post-image: "../assets/images/pollen.jpg"
 description: Wenn Pollen und Milben die Hundeaugen jucken lassen...
-tags:
-- sample
-- post
-- test
 ---
 
 

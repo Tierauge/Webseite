@@ -3,8 +3,6 @@ title: Horner Syndrom
 layout: post
 post-image: "../assets/images/Hornergoldi2.jpg"
 description: Was ist das, wo kommt es her und wie wird es behandelt?
-tags:
-- Information
 ---
 
 Das Horner Syndrom ist eine Erkrankung der Nervenversorgung des Auges. Das Auge selbst ist gesund. Es fällt die Funktion des Nervus sympathicus teilweise oder vollständig aus. Dieser Nerv ist mitverantwortlich für die Funktion der Pupille, der Lider, der Nickhaut und für die Augapfelposition. Die Erkrankung tritt in der Regel ganz plötzlich auf.

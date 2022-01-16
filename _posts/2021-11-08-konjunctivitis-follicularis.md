@@ -3,10 +3,6 @@ title: Konjunktivitis follicularis - Junghundbindehautentzündung
 layout: post
 post-image: "../assets/images/Welpe.jpg"
 description: Abwarten oder therapieren?
-tags:
-- sample
-- post
-- test
 ---
 
 

@@ -3,10 +3,6 @@ title: Lidrandtumor
 layout: post
 post-image: "../assets/images/lidrandtumor2.jpg"
 description: Ursache, Symptome und Operation.
-tags:
-- sample
-- post
-- test
 ---
 
 Lidrandtumore sind i.d.R. gutartige Tumoren, die direkt am Lidrand sitzen und häufig auf der Hornhaut reiben.  
