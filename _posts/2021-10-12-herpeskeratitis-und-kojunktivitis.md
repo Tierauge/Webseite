@@ -1,9 +1,8 @@
 ---
 title: Herpeskeratitis und -Konjunktivitis der Katze
 layout: post
-post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
-description: This post will guide you to install WhatATheme on your Jekyll site, follow
-  the easy steps to set up WhatATheme.
+post-image: "../assets/images/FHV3.jpg"
+description: Überblick über Symptome, Therapie und Komplikationen.
 tags:
 - how to
 - setup

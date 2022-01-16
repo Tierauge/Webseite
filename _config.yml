@@ -9,9 +9,9 @@ url: https://Tierauge.github.io/Webseite  # the base hostname and protocol for y
 # Title of the Site
 title: Augentierarzt Greifswald
 # Description of the Site
-description: <br/>Augenerkrankungen sind bei unseren Haustieren sehr häufig. Eine spezialisierte Diagnostik und zielgerichtete Therapie ist entscheidend.
+description: <br/>Augenerkrankungen sind bei unseren Haustieren sehr häufig. Eine spezialisierte Diagnostik und zielgerichtete Therapie sind entscheidend.
 
- <br/><br/>Auf dieser Webseite findet ihr interessante Informationen über gängige Augenerkrankungen von Hunden, Katzen und Heimtieren im Blog. Außerdem erzählen Patienten ihre Krankengeschichte.
+ <br/><br/>Auf dieser Webseite finden Sie interessante Informationen über gängige Augenerkrankungen von Hunden, Katzen und Heimtieren in der Wissensbank. Außerdem erzählen Patienten ihre Krankengeschichte.
 
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
@@ -29,12 +29,12 @@ email: tierauge@gmail.com
 
 phone: +49 383 4504672
 
-mobile: +49 122133
+mobile: +49 172 3006894
 
 # Name of the Author
 author-name: Dr. Sabine Sahr
 # URL for the Image of the Author
-author-image: ./assets/images/profil.jpg
+author-image: ./assets/images/Spaltlampe.jpg
 # 60 Words About the Author
 author-about: Ich bin Tierärztin mit Zusatzbezeichnung Augenheilkunde und Mitglied
  im <a target="blank_" href="https://www.dok-vet.de">Dortmunder Kreis (DOK)</a> - Gesellschaft für

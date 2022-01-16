@@ -1,9 +1,8 @@
 ---
 title: Lidrandtumor
 layout: post
-post-image: "../assets/images/pollen.jpg"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+post-image: "../assets/images/lidrandtumor2.jpg"
+description: Ursache, Symptome und Operation.
 tags:
 - sample
 - post

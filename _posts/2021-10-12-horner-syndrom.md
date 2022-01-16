@@ -1,9 +1,8 @@
 ---
 title: Horner Syndrom
 layout: post
-post-image: "../assets/images/horner1.png"
-description: Jekyll is a static site generator. You give it text written in your favorite
-  markup language and it uses layouts to create a static website.
+post-image: "../assets/images/Hornergoldi2.jpg"
+description: Was ist das, wo kommt es her und wie wird es behandelt?
 tags:
 - Information
 ---

@@ -1,9 +1,8 @@
 ---
 title: Konjunktivitis follicularis - Junghundbindehautentzündung
 layout: post
-post-image: "../assets/images/pollen.jpg"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+post-image: "../assets/images/Welpe.jpg"
+description: Abwarten oder therapieren?
 tags:
 - sample
 - post

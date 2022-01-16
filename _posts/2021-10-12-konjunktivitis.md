@@ -2,8 +2,7 @@
 title: Allergische Bindehautentzündung/Konjunktivitis
 layout: post
 post-image: "../assets/images/pollen.jpg"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+description: Wenn Pollen und Milben die Hundeaugen jucken lassen...
 tags:
 - sample
 - post
