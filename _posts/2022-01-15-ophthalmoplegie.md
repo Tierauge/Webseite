@@ -8,7 +8,7 @@ description: Ursachen und Therapie der Augenlähmung
 Die Ophthalmoplegie (‚Augenmuskellähmung‘) ist eine Störung der Nervenversorgung der Augenmuskeln. Der III. Hirnnerv, Nervus oculomotorius, weist eine Funktionsstörung auf. Dieser Nerv versorgt sowohl den Pupillenschließmuskel (Musculus sphincter pupillae) als auch äußere Augenmuskeln, die für die Bewegung des Augapfels verantwortlich sind.
 
 {% figure caption:"**Abb. 1 :** Ophthalmoplegie links mit weiter Pupille und Auswärtsschielen." %}
-![Grafik zweier Augen im Vergleich.](../assets/images/Ophthalmoplegie links.png)
+![Grafik zweier Augen im Vergleich.](../assets/images/Ophthalmoplegie_links.png)
 {% endfigure %}
 
 ## Symptome
