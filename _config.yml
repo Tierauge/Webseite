@@ -2,8 +2,8 @@
 markdown: kramdown
 
 domain: Tierauge.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://Tierauge.github.io/Webseite  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: docs       # place folder name if the site is served in a subfolder
+url: https://Tierauge.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: webseite       # place folder name if the site is served in a subfolder
 
 
 # Title of the Site
