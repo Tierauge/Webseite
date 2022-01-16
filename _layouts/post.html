@@ -32,8 +32,8 @@ layout: compress
               {{page.description | strip | strip_html | strip_newlines }}</p>
             {% endunless %}
             <p class="subtitle is-6 is-uppercase has-text-weight-normal has-text-black-ter">Publiziert am
-              <b>{% assign m = post.date | date: "%-m" %}
-                {{ post.date | date: "%-d" }}.
+              <b>{% assign m = page.date | date: "%-m" %}
+                {{ page.date | date: "%-d" }}.
                 {% case m %}
                     {% when '1' %}Januar
                     {% when '2' %}Februar
@@ -48,9 +48,7 @@ layout: compress
                     {% when '11' %}November
                     {% when '12' %}Dezember
                 {% endcase %}
-                {{ post.date | date: "%Y" }}
-
-              </b> von <a
+                {{ page.date | date: "%Y" }}</b> von <a
                 href="{% if site.author-url %}{{site.author-url}}{% else %}{{site.url}}{{site.baseurl}}/#about{% endif %}"
                 target="_blank"><b class="has-text-link"><u>{{site.author-name}}</u></b>
               </a>
@@ -68,7 +66,7 @@ layout: compress
             {%- endunless -%}
             {% assign words = content | number_of_words %}
             {%- unless content.size == 0 -%}
-            <p class="subtitle"><i class="fas fa-clock"></i> <b class="has-text-link">
+            <p class="subtitle is-uppercase"><i class="fas fa-clock"></i> <b class="has-text-link">
                 {{ words | divided_by:180 }} min
               </b>Lesezeit</p>
             {%- endunless -%}
