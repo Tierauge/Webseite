@@ -3,7 +3,7 @@ markdown: kramdown
 
 domain: Tierauge.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://Tierauge.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: .       # place folder name if the site is served in a subfolder
+#baseurl:        # place folder name if the site is served in a subfolder
 
 
 # Title of the Site
@@ -16,12 +16,12 @@ description: <br/>Augenerkrankungen sind bei unseren Haustieren sehr häufig. Ei
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Greifswald, Tieraugen, Tierarzt
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: http://localhost:4000/assets/images/greifswald.jpg
+heroimage: ./assets/images/greifswald.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
