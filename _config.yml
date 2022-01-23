@@ -14,14 +14,14 @@ description: <br/>Augenerkrankungen sind bei unseren Haustieren sehr häufig. Ei
  <br/><br/>Auf dieser Webseite finden Sie interessante Informationen über gängige Augenerkrankungen von Hunden, Katzen und Heimtieren in der Wissensbank. Außerdem erzählen Patienten ihre Krankengeschichte.
 
 # URL of Image of the Site
-site-image: https://tierauge.github.io/assets/images/Spaltlampe.jpg
+site-image: https://tieraugen.doctor/assets/images/hero.jpg
 # Keywords of the Site
 site-keywords: Greifswald, Tieraugen, Tierarzt
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://tierauge.github.io/assets/images/greifswald.jpg
+heroimage: https://tieraugen.doctor/assets/images/greifswald.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
