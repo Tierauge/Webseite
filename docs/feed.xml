@@ -1,82 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://tierauge.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tierauge.github.io/" rel="alternate" type="text/html" /><updated>2022-01-23T12:06:50+01:00</updated><id>https://tierauge.github.io/feed.xml</id><title type="html">Augentierarzt Greifswald</title><subtitle>&lt;br/&gt;Augenerkrankungen sind bei unseren Haustieren sehr häufig. Eine spezialisierte Diagnostik und zielgerichtete Therapie sind entscheidend.
-&lt;br/&gt;&lt;br/&gt;Auf dieser Webseite finden Sie interessante Informationen über gängige Augenerkrankungen von Hunden, Katzen und Heimtieren in der Wissensbank. Außerdem erzählen Patienten ihre Krankengeschichte.</subtitle><entry><title type="html">Die Augenuntersuchung</title><link href="https://tierauge.github.io/blog/Augenuntersuchung" rel="alternate" type="text/html" title="Die Augenuntersuchung" /><published>2022-01-22T00:00:00+01:00</published><updated>2022-01-22T00:00:00+01:00</updated><id>https://tierauge.github.io/blog/Augenuntersuchung</id><content type="html" xml:base="https://tierauge.github.io/blog/Augenuntersuchung"><![CDATA[<figure>
-<p><img src="../assets/images/Bild1au.png" alt="" /></p>
-  <figcaption><strong>Abb. 1 :</strong></figcaption>
-</figure>
-
-<p>Jede Augenuntersuchung startet mit Funktionstests.</p>
-
-<h2 id="sehtest">Sehtest</h2>
-
-<p>Mit der DROHREAKTION kann das Sehen der Augen einzeln überprüft werden. 
-Nähert sich die Hand dem Auge, wird es geschlossen. Das andere Auge wird abgedeckt, damit nicht geschummelt werden kann.</p>
-<figure>
-<p><img src="../assets/images/Bild2audroh.jpg" alt="Ein Hund sitzt auf dem Tisch und die Hand des Untersuchers wird vor das linke Auge geführt. Die andere Hand deckt dabei das rechte Auge ab." /></p>
-  <figcaption><strong>Abb. 2 :</strong> Test der Drohreaktion beim Hund</figcaption>
-</figure>
-
-<p>Ein weiterer Test ist z.B. der WATTEBAUSCHTEST. 
-Es wird überprüft, ob der Patient der fallenden Watte hinterherschaut.
-Dieser Test kann aber bei desinteressierten oder sehr aufgeregten Tieren unbrauchbar sein.</p>
-<figure>
-<p><img src="../assets/images/Bild3auwatte.jpg" alt="Ein Hund sitzt auf dem Untersuchungstisch, ein Auge wird abgedeckt mit der Hand des Untersuchers und ein Wattebausch wird vor dem anderen Auge fallen gelassen." /></p>
-  <figcaption><strong>Abb. 3 :</strong> Wattebauschtest beim Hund</figcaption>
-</figure>
-
-<p>Weitere Sehtests, die beim Tier im Zweifel zum Einsatz kommen können, sind die Tischkantenprobe und der Hindernisparcour.</p>
-
-<h2 id="pupillarreflex">Pupillarreflex</h2>
-
-<p>Die Pupillenreaktion auf Licht gibt wichtige Hinweise auf mögliche Erkrankungen. 
-Im Normalfall verengt sich sowohl die direkt beleuchtete Pupille (direkter Reflex) als auch die Pupille der anderen Seite (indirekter Reflex).
-Ein normaler Pupillarreflex beweist aber nicht, dass der Patient sieht!</p>
-
-<figure>
-<p><img src="../assets/images/Bild4auppr.jpg" alt="Bei einer Katze wird in ein Auge geleuchtet und die Pupille verengt sich." /></p>
-  <figcaption><strong>Abb. 4 :</strong> Pupillarreflex</figcaption>
-</figure>
-
-<h2 id="blendreflex-dazzle">Blendreflex (Dazzle)</h2>
-
-<p>Der Blendreflex überprüft die Reaktion auf helles Licht. Normal ist es, dass der Patient beide Augen geblendet zusammenkneift.
-Dieser Test gibt zusätzliche Informationen über die Funktionsfähigkeit der Strukturen von den Augen bis knapp unterhalb der Sehrinde des Gehirns.
-Ein Patient mit gutem Blendreflex muss nicht zwangsläufig sehen!</p>
-
-<figure>
-<p><img src="../assets/images/Bild5audazzle.jpg" alt="Bei einem Hund wird auf dem Untersuchungstisch mit heller Lichtquelle in die Augen geleuchtet und der Hund kneift beide Augen geblendet zusammen." /></p>
-  <figcaption><strong>Abb. 4 :</strong> Blendreflex</figcaption>
-</figure>
-
-<p>Jetzt schließt sich die ‘eigentliche’ Augenuntersuchung an.</p>
-
-<h2 id="spaltlampenuntersuchung">Spaltlampenuntersuchung</h2>
-
-<p>Die Spaltlampe ermöglicht eine stark vergrößerte Ansicht der einzelnen Augenabschnitte- wie ein Mikroskop. 
-Auch sehr kleine Veränderungen können so gut beurteilt und genau lokalisiert werden.
-Die Spaltlampe heißt so, weil sie durch ihr spaltförmiges Licht ein optisches „In-Scheiben-Schneiden“ des Auges ermöglicht.
-Dadurch können Veränderungen exakt zugeordnet werden (z.B. Trübung der Linse, der Vorderkammer oder der Hornhaut).</p>
-
-<figure>
-<p><img src="../assets/images/Bild7auspaltlampe.jpg" alt="Fotografie einer Spaltlampe" /></p>
-  <figcaption><strong>Abb. 5 :</strong> Spaltlampe</figcaption>
-</figure>
-
-<figure>
-<p><img src="../assets/images/Bild6auspalt.jpg" alt="Eine Katze wird auf einem Tisch mit der Spaltlampe untersucht." /></p>
-  <figcaption><strong>Abb. 6 :</strong> Spaltlampenuntersuchung</figcaption>
-</figure>
-
-<figure>
-<p><img src="../assets/images/Bild9auspalt4.png" alt="Ein Grafik eines Auges stellt die Brechung des Spaltlichtes an den einzelnen Strukturen dar." /></p>
-  <figcaption><strong>Abb. 7 :</strong> Optisches „In-Scheiben-Schneiden“ des Auges. Das spaltförmige Licht bricht sich zuerst an der Hornhaut (1.) dann an der vorderen (2.) und zuletzt an der hinteren Linsenkapsel (3.).</figcaption>
-</figure>
-
-<figure>
-<p><img src="../assets/images/Bild10auspalt5.png" alt="Ein Grafik eines Auges stellt Trübungen im Spaltlicht an den einzelnen Strukturen dar." /></p>
-  <figcaption><strong>Abb. 8 :</strong> Je nachdem, wo im Spaltlicht die Trübung zu sehen ist, ist ihre Lokalisation im Auge und ihre Art bzw. ihre Ursache genau bestimmbar.</figcaption>
-</figure>
-
-<p>Mit der Spaltlampe wird das Kammerwasser beurteilt. Das Kammerwasser ist normalerweise klar und nicht zu sehen im Spaltlicht. Bei Entzündungen des inneren Auges (Regenbogenhautentzündung) wird das Kammerwasser trüb und streut das Licht (ähnlich Sonnenstrahlen in der Luft). Es wird plötzlich sichtbar (Pfeile).</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Ein Überblick über die einzelnen Untersuchungsschritte.]]></summary></entry><entry><title type="html">Nukleussklerose</title><link href="https://tierauge.github.io/blog/nukleussklerose" rel="alternate" type="text/html" title="Nukleussklerose" /><published>2022-01-15T00:00:00+01:00</published><updated>2022-01-15T00:00:00+01:00</updated><id>https://tierauge.github.io/blog/nukleussklerose</id><content type="html" xml:base="https://tierauge.github.io/blog/nukleussklerose"><![CDATA[<p>Der Nukleus ist der Kern der Augenlinse. Er wird umgeben von der Linsenrinde (Kortex). Bei der Nukleussklerose handelt es sich um eine Verdichtung des Linsenkerns (Sklerose = Härtung).</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://tieraugen.doctor/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tieraugen.doctor/" rel="alternate" type="text/html" /><updated>2022-01-23T13:04:13+01:00</updated><id>https://tieraugen.doctor/feed.xml</id><title type="html">Augentierarzt Greifswald</title><subtitle>&lt;br/&gt;Augenerkrankungen sind bei unseren Haustieren sehr häufig. Eine spezialisierte Diagnostik und zielgerichtete Therapie sind entscheidend.
+&lt;br/&gt;&lt;br/&gt;Auf dieser Webseite finden Sie interessante Informationen über gängige Augenerkrankungen von Hunden, Katzen und Heimtieren in der Wissensbank. Außerdem erzählen Patienten ihre Krankengeschichte.</subtitle><entry><title type="html">Nukleussklerose</title><link href="https://tieraugen.doctor/blog/nukleussklerose" rel="alternate" type="text/html" title="Nukleussklerose" /><published>2022-01-15T00:00:00+01:00</published><updated>2022-01-15T00:00:00+01:00</updated><id>https://tieraugen.doctor/blog/nukleussklerose</id><content type="html" xml:base="https://tieraugen.doctor/blog/nukleussklerose"><![CDATA[<p>Der Nukleus ist der Kern der Augenlinse. Er wird umgeben von der Linsenrinde (Kortex). Bei der Nukleussklerose handelt es sich um eine Verdichtung des Linsenkerns (Sklerose = Härtung).</p>
 
 <h2 id="ursache">Ursache</h2>
 
@@ -102,7 +25,7 @@ Dadurch können Veränderungen exakt zugeordnet werden (z.B. Trübung der Linse,
 
 <h2 id="therapie">Therapie</h2>
 
-<p>Eine Therapie ist nicht notwendig. Selten kann bei sehr dichten Linsen in fortgeschrittenem Alter eine Linsenoperation sinnvoll sein.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Eine altersbedingte Linsentrübung - Ursachen, Symptome, Diagnose, Therapie beim Hund.]]></summary></entry><entry><title type="html">Ophthalmoplegie - Augenlähmung</title><link href="https://tierauge.github.io/blog/ophthalmoplegie" rel="alternate" type="text/html" title="Ophthalmoplegie - Augenlähmung" /><published>2022-01-15T00:00:00+01:00</published><updated>2022-01-15T00:00:00+01:00</updated><id>https://tierauge.github.io/blog/ophthalmoplegie</id><content type="html" xml:base="https://tierauge.github.io/blog/ophthalmoplegie"><![CDATA[<p>Die Ophthalmoplegie (‚Augenmuskellähmung‘) ist eine Störung der Nervenversorgung der Augenmuskeln. Der III. Hirnnerv, Nervus oculomotorius, weist eine Funktionsstörung auf. Dieser Nerv versorgt sowohl den Pupillenschließmuskel (Musculus sphincter pupillae) als auch äußere Augenmuskeln, die für die Bewegung des Augapfels verantwortlich sind.</p>
+<p>Eine Therapie ist nicht notwendig. Selten kann bei sehr dichten Linsen in fortgeschrittenem Alter eine Linsenoperation sinnvoll sein.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Eine altersbedingte Linsentrübung - Ursachen, Symptome, Diagnose, Therapie beim Hund.]]></summary></entry><entry><title type="html">Ophthalmoplegie - Augenlähmung</title><link href="https://tieraugen.doctor/blog/ophthalmoplegie" rel="alternate" type="text/html" title="Ophthalmoplegie - Augenlähmung" /><published>2022-01-15T00:00:00+01:00</published><updated>2022-01-15T00:00:00+01:00</updated><id>https://tieraugen.doctor/blog/ophthalmoplegie</id><content type="html" xml:base="https://tieraugen.doctor/blog/ophthalmoplegie"><![CDATA[<p>Die Ophthalmoplegie (‚Augenmuskellähmung‘) ist eine Störung der Nervenversorgung der Augenmuskeln. Der III. Hirnnerv, Nervus oculomotorius, weist eine Funktionsstörung auf. Dieser Nerv versorgt sowohl den Pupillenschließmuskel (Musculus sphincter pupillae) als auch äußere Augenmuskeln, die für die Bewegung des Augapfels verantwortlich sind.</p>
 
 <figure>
 <p><img src="../assets/images/Ophthalmoplegie_links.png" alt="Grafik zweier Augen im Vergleich." /></p>
@@ -124,7 +47,7 @@ Sind zusätzlich die äußeren Augenmuskleln, die für die Bewegung des Augapfel
 
 <h2 id="therapie">Therapie</h2>
 
-<p>Die Therapie richtet sich nach der Ursache der Erkrankung und ist deshalb von Fall zu Fall verschieden. Oft ist eine symptomatische Therapie des Auges mit befeuchtenden Augentropfen sinnvoll.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Ursachen und Therapie der Augenlähmung]]></summary></entry><entry><title type="html">Uveitis anterior- Regenbogenhautentzündung</title><link href="https://tierauge.github.io/blog/uveitis" rel="alternate" type="text/html" title="Uveitis anterior- Regenbogenhautentzündung" /><published>2022-01-15T00:00:00+01:00</published><updated>2022-01-15T00:00:00+01:00</updated><id>https://tierauge.github.io/blog/uveitis</id><content type="html" xml:base="https://tierauge.github.io/blog/uveitis"><![CDATA[<p>Hierbei handelt es sich streng genommen nicht um eine Erkrankung. Die Konjunktivitis follicularis ist eine häufige Reaktion der Bindehaut junger Hunde auf die unbekannten täglichen Umweltreize. Bei den meisten Hunden verläuft sie symptomlos. Bei einigen Patienten führt sie aber zu klinischen Problemen.</p>
+<p>Die Therapie richtet sich nach der Ursache der Erkrankung und ist deshalb von Fall zu Fall verschieden. Oft ist eine symptomatische Therapie des Auges mit befeuchtenden Augentropfen sinnvoll.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Ursachen und Therapie der Augenlähmung]]></summary></entry><entry><title type="html">Uveitis anterior- Regenbogenhautentzündung</title><link href="https://tieraugen.doctor/blog/uveitis" rel="alternate" type="text/html" title="Uveitis anterior- Regenbogenhautentzündung" /><published>2022-01-15T00:00:00+01:00</published><updated>2022-01-15T00:00:00+01:00</updated><id>https://tieraugen.doctor/blog/uveitis</id><content type="html" xml:base="https://tieraugen.doctor/blog/uveitis"><![CDATA[<p>Hierbei handelt es sich streng genommen nicht um eine Erkrankung. Die Konjunktivitis follicularis ist eine häufige Reaktion der Bindehaut junger Hunde auf die unbekannten täglichen Umweltreize. Bei den meisten Hunden verläuft sie symptomlos. Bei einigen Patienten führt sie aber zu klinischen Problemen.</p>
 
 <h2 id="auslöser">Auslöser</h2>
 
@@ -150,7 +73,7 @@ Liegt eine ausgeprägte Bindehautentzündung mit umfangreicher Follikelbildung v
 <h2 id="verlauf-prognose">Verlauf/ Prognose</h2>
 
 <p>Die Konjunktivitis follicularis hat eine sehr gute Prognose. Die Symptome können in der Regel mit spülenden Augentropfen gelindert und kontrolliert werden bis die Selbstheilung mit 1-2 Jahren eintritt. Bei einigen, etwas stärker betroffenen Patienten, sind wiederholte Behandlungen mit antibiotika- und/oder entzündungshemmenden Augentropfen bis zur endgültigen Besserung notwendig. 
-Bleiben aber über die üblichen Altersgrenzen hinaus Beschwerden bestehen, sollte eine Allergieabklärung hinsichtlich Pollen- und Milbenallergien eingeleitet werden.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Abwarten oder therapieren?]]></summary></entry><entry><title type="html">Endotheldystrophie</title><link href="https://tierauge.github.io/blog/endotheldystrophie" rel="alternate" type="text/html" title="Endotheldystrophie" /><published>2022-01-08T00:00:00+01:00</published><updated>2022-01-08T00:00:00+01:00</updated><id>https://tierauge.github.io/blog/endotheldystrophie</id><content type="html" xml:base="https://tierauge.github.io/blog/endotheldystrophie"><![CDATA[<p>Die Endotheldystrophie ist eine Erkrankung, bei der sich die Hornhaut Ihres Hundes langsam eintrübt. Diese Erkrankung betrifft v.a. die älteren Tiere. Einige Rassen sind häufiger betroffen als andere wie Dackel und Boston Terrier.</p>
+Bleiben aber über die üblichen Altersgrenzen hinaus Beschwerden bestehen, sollte eine Allergieabklärung hinsichtlich Pollen- und Milbenallergien eingeleitet werden.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Abwarten oder therapieren?]]></summary></entry><entry><title type="html">Endotheldystrophie</title><link href="https://tieraugen.doctor/blog/endotheldystrophie" rel="alternate" type="text/html" title="Endotheldystrophie" /><published>2022-01-08T00:00:00+01:00</published><updated>2022-01-08T00:00:00+01:00</updated><id>https://tieraugen.doctor/blog/endotheldystrophie</id><content type="html" xml:base="https://tieraugen.doctor/blog/endotheldystrophie"><![CDATA[<p>Die Endotheldystrophie ist eine Erkrankung, bei der sich die Hornhaut Ihres Hundes langsam eintrübt. Diese Erkrankung betrifft v.a. die älteren Tiere. Einige Rassen sind häufiger betroffen als andere wie Dackel und Boston Terrier.</p>
 
 <h2 id="auslöser">Auslöser</h2>
 
@@ -200,7 +123,7 @@ Eine bewährte operative Methode ist der Gundersen-Flap. Dabei wird ein hauchdü
 
 <h2 id="prognose">Prognose</h2>
 
-<p>Bei frühzeitiger Erkennung und Behandlung ist die Erkrankung sehr gut kontrollierbar. Heilbar ist sie leider nicht. Unbehandelt führt sie meistens zu starker Seheinschränkung und schmerzhaften Hornhautdefekten.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Beschreibung, Auslöser, Ursachen, Diagnose und Therapie beim Hund.]]></summary></entry><entry><title type="html">Lidrandtumor</title><link href="https://tierauge.github.io/blog/Lidrandtumor" rel="alternate" type="text/html" title="Lidrandtumor" /><published>2021-11-08T00:00:00+01:00</published><updated>2021-11-08T00:00:00+01:00</updated><id>https://tierauge.github.io/blog/Lidrandtumor</id><content type="html" xml:base="https://tierauge.github.io/blog/Lidrandtumor"><![CDATA[<p>Lidrandtumore sind i.d.R. gutartige Tumoren, die direkt am Lidrand sitzen und häufig auf der Hornhaut reiben.</p>
+<p>Bei frühzeitiger Erkennung und Behandlung ist die Erkrankung sehr gut kontrollierbar. Heilbar ist sie leider nicht. Unbehandelt führt sie meistens zu starker Seheinschränkung und schmerzhaften Hornhautdefekten.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Beschreibung, Auslöser, Ursachen, Diagnose und Therapie beim Hund.]]></summary></entry><entry><title type="html">Lidrandtumor</title><link href="https://tieraugen.doctor/blog/Lidrandtumor" rel="alternate" type="text/html" title="Lidrandtumor" /><published>2021-11-08T00:00:00+01:00</published><updated>2021-11-08T00:00:00+01:00</updated><id>https://tieraugen.doctor/blog/Lidrandtumor</id><content type="html" xml:base="https://tieraugen.doctor/blog/Lidrandtumor"><![CDATA[<p>Lidrandtumore sind i.d.R. gutartige Tumoren, die direkt am Lidrand sitzen und häufig auf der Hornhaut reiben.</p>
 
 <h2 id="ursache">Ursache</h2>
 
@@ -238,7 +161,7 @@ Die chirurgische Entfernung ist die optimale Therapie für einen Lidrandtumor. L
 <figure>
 <p><img src="../assets/images/lidrandtumor3.png" alt="Lidrandtumor-OP" /></p>
   <figcaption><strong>Abb. 3 :</strong> Die dünnen Hautfäden müssen bis zum Fädenziehen nach 8-10 Tagen vor Manipulation geschützt werden.</figcaption>
-</figure>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Ursache, Symptome und Operation.]]></summary></entry><entry><title type="html">Okuläres Brachyzephalensyndrom</title><link href="https://tierauge.github.io/blog/Mops" rel="alternate" type="text/html" title="Okuläres Brachyzephalensyndrom" /><published>2021-11-08T00:00:00+01:00</published><updated>2021-11-08T00:00:00+01:00</updated><id>https://tierauge.github.io/blog/Mops</id><content type="html" xml:base="https://tierauge.github.io/blog/Mops"><![CDATA[<h1 id="zu-große-lidspalte-trockenes-auge-und-hornhautpigmentierung-beim-mops-und-anderen-kurznasigen-hunderassen">Zu große Lidspalte, trockenes Auge und Hornhautpigmentierung beim Mops und anderen kurznasigen Hunderassen</h1>
+</figure>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Ursache, Symptome und Operation.]]></summary></entry><entry><title type="html">Okuläres Brachyzephalensyndrom</title><link href="https://tieraugen.doctor/blog/Mops" rel="alternate" type="text/html" title="Okuläres Brachyzephalensyndrom" /><published>2021-11-08T00:00:00+01:00</published><updated>2021-11-08T00:00:00+01:00</updated><id>https://tieraugen.doctor/blog/Mops</id><content type="html" xml:base="https://tieraugen.doctor/blog/Mops"><![CDATA[<h1 id="zu-große-lidspalte-trockenes-auge-und-hornhautpigmentierung-beim-mops-und-anderen-kurznasigen-hunderassen">Zu große Lidspalte, trockenes Auge und Hornhautpigmentierung beim Mops und anderen kurznasigen Hunderassen</h1>
 <h2 id="--ursachen-medikamentelle-und-chirurgische-therapie--">- Ursachen, medikamentelle und chirurgische Therapie -</h2>
 
 <p>Die Augenlider des Mopses und vieler anderer kurznasiger Hunderassen (Französische Bulldogge, Shih Tzu, Pekingese u.a.) sind zu lang und umschließen die Augen nur unvollständig. Außerdem stehen die Augen weiter vor als bei langnasigen Hunden. Durch diese Konstellation sind die Augen bei diesen Rassen nahezu ungeschützt den Umwelteinflüssen ausgesetzt.</p>
@@ -284,7 +207,7 @@ Zusätzlich zur Operation ist in den meisten Fällen eine dauerhafte Gabe von Au
 <figure>
 <p><img src="../assets/images/Mops2.png" alt="Lidrandtumor-OP" /></p>
   <figcaption><strong>Abb. 2 :</strong> Nach der OP. Nach der Operation ist die Lidspalte kleiner und die Augen deutlich besser geschützt. Es reiben keine Haare mehr auf der Hornhaut.</figcaption>
-</figure>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Was ist das und wie kann es therapiert werden?]]></summary></entry><entry><title type="html">Konjunktivitis follicularis - Junghundbindehautentzündung</title><link href="https://tierauge.github.io/blog/konjunctivitis-follicularis" rel="alternate" type="text/html" title="Konjunktivitis follicularis - Junghundbindehautentzündung" /><published>2021-11-08T00:00:00+01:00</published><updated>2021-11-08T00:00:00+01:00</updated><id>https://tierauge.github.io/blog/konjunctivitis-follicularis</id><content type="html" xml:base="https://tierauge.github.io/blog/konjunctivitis-follicularis"><![CDATA[<p>Hierbei handelt es sich streng genommen nicht um eine Erkrankung. Die Konjunktivitis follicularis ist eine häufige Reaktion der Bindehaut junger Hunde auf die unbekannten täglichen Umweltreize. Bei den meisten Hunden verläuft sie symptomlos. Bei einigen Patienten führt sie aber zu klinischen Problemen.</p>
+</figure>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Was ist das und wie kann es therapiert werden?]]></summary></entry><entry><title type="html">Konjunktivitis follicularis - Junghundbindehautentzündung</title><link href="https://tieraugen.doctor/blog/konjunctivitis-follicularis" rel="alternate" type="text/html" title="Konjunktivitis follicularis - Junghundbindehautentzündung" /><published>2021-11-08T00:00:00+01:00</published><updated>2021-11-08T00:00:00+01:00</updated><id>https://tieraugen.doctor/blog/konjunctivitis-follicularis</id><content type="html" xml:base="https://tieraugen.doctor/blog/konjunctivitis-follicularis"><![CDATA[<p>Hierbei handelt es sich streng genommen nicht um eine Erkrankung. Die Konjunktivitis follicularis ist eine häufige Reaktion der Bindehaut junger Hunde auf die unbekannten täglichen Umweltreize. Bei den meisten Hunden verläuft sie symptomlos. Bei einigen Patienten führt sie aber zu klinischen Problemen.</p>
 
 <h2 id="auslöser">Auslöser</h2>
 
@@ -310,7 +233,7 @@ Liegt eine ausgeprägte Bindehautentzündung mit umfangreicher Follikelbildung v
 <h2 id="verlauf-prognose">Verlauf/ Prognose</h2>
 
 <p>Die Konjunktivitis follicularis hat eine sehr gute Prognose. Die Symptome können in der Regel mit spülenden Augentropfen gelindert und kontrolliert werden bis die Selbstheilung mit 1-2 Jahren eintritt. Bei einigen, etwas stärker betroffenen Patienten, sind wiederholte Behandlungen mit antibiotika- und/oder entzündungshemmenden Augentropfen bis zur endgültigen Besserung notwendig. 
-Bleiben aber über die üblichen Altersgrenzen hinaus Beschwerden bestehen, sollte eine Allergieabklärung hinsichtlich Pollen- und Milbenallergien eingeleitet werden.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Abwarten oder therapieren?]]></summary></entry><entry><title type="html">Keratitis superficialis chronica KSC und lymphoplasmazelluläre Nickhautentzündung</title><link href="https://tierauge.github.io/blog/ksc" rel="alternate" type="text/html" title="Keratitis superficialis chronica KSC und lymphoplasmazelluläre Nickhautentzündung" /><published>2021-11-08T00:00:00+01:00</published><updated>2021-11-08T00:00:00+01:00</updated><id>https://tierauge.github.io/blog/ksc</id><content type="html" xml:base="https://tierauge.github.io/blog/ksc"><![CDATA[<h2 id="syn-keratitis-überreiter-schäferhundkeratitis">Syn: Keratitis Überreiter, Schäferhundkeratitis</h2>
+Bleiben aber über die üblichen Altersgrenzen hinaus Beschwerden bestehen, sollte eine Allergieabklärung hinsichtlich Pollen- und Milbenallergien eingeleitet werden.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Abwarten oder therapieren?]]></summary></entry><entry><title type="html">Keratitis superficialis chronica KSC und lymphoplasmazelluläre Nickhautentzündung</title><link href="https://tieraugen.doctor/blog/ksc" rel="alternate" type="text/html" title="Keratitis superficialis chronica KSC und lymphoplasmazelluläre Nickhautentzündung" /><published>2021-11-08T00:00:00+01:00</published><updated>2021-11-08T00:00:00+01:00</updated><id>https://tieraugen.doctor/blog/ksc</id><content type="html" xml:base="https://tieraugen.doctor/blog/ksc"><![CDATA[<h2 id="syn-keratitis-überreiter-schäferhundkeratitis">Syn: Keratitis Überreiter, Schäferhundkeratitis</h2>
 
 <p>Die KSC ist eine Erkrankung der Hornhaut die fortschreitend verläuft, bis hin zum Sehverlust. Sie betrifft vor allem Schäferhunde, aber auch Hütehunde und Collies sowie deren Mischlinge sind besonders gefährdet.
 Bei der lymphoplasmazellulären Nickhautentzündung ist das dritte Augenlid betroffen. Die beiden Erkrankungen treten häufig gemeinsam auf.</p>
@@ -336,7 +259,7 @@ Da Sonnenlicht die Symptome verschlechtert, kann es vor allem während des Stran
 <h2 id="prognose">Prognose</h2>
 
 <p>Bei frühzeitiger Erkennung und Behandlung ist die Erkrankung sehr gut medikamentell kontrollierbar. Eine schubweise Verschlechterung ist aber auch bei gut eingestellten Patienten möglich und erfordert eine vorübergehende Anpassung der Therapie.
-Ausgeprägte Trübungen und Pigmentierungen der Hornhaut sind leider nicht vollständig reversibel.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Keratitis Überreiter oder Schäferhundkeratitis; Erkennung und Therapie.]]></summary></entry><entry><title type="html">Dermoid</title><link href="https://tierauge.github.io/blog/dermoid" rel="alternate" type="text/html" title="Dermoid" /><published>2021-10-12T00:00:00+02:00</published><updated>2021-10-12T00:00:00+02:00</updated><id>https://tierauge.github.io/blog/dermoid</id><content type="html" xml:base="https://tierauge.github.io/blog/dermoid"><![CDATA[<p>Dermoide sind versprengte Hautinseln (von Derma = Haut), die sich am ‚falschen‘ Ort befinden. Diese Missbildung ist angeboren. Am Auge kommen sie auf der Hornhaut (Abb. 1), dem Lidrand (Abb. 2) oder der Bindehaut (Abb. 3) vor. Sie können zufällig entsehen oder eine erbliche Grundlage haben.</p>
+Ausgeprägte Trübungen und Pigmentierungen der Hornhaut sind leider nicht vollständig reversibel.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Keratitis Überreiter oder Schäferhundkeratitis; Erkennung und Therapie.]]></summary></entry><entry><title type="html">Dermoid</title><link href="https://tieraugen.doctor/blog/dermoid" rel="alternate" type="text/html" title="Dermoid" /><published>2021-10-12T00:00:00+02:00</published><updated>2021-10-12T00:00:00+02:00</updated><id>https://tieraugen.doctor/blog/dermoid</id><content type="html" xml:base="https://tieraugen.doctor/blog/dermoid"><![CDATA[<p>Dermoide sind versprengte Hautinseln (von Derma = Haut), die sich am ‚falschen‘ Ort befinden. Diese Missbildung ist angeboren. Am Auge kommen sie auf der Hornhaut (Abb. 1), dem Lidrand (Abb. 2) oder der Bindehaut (Abb. 3) vor. Sie können zufällig entsehen oder eine erbliche Grundlage haben.</p>
 
 <figure>
 <p><img src="../assets/images/dermoid1.png" alt="Dermoid" /></p>
@@ -366,4 +289,67 @@ Naht rekonstruiert werden, deshalb ist bis zum Fädenziehen (8-10 Tage) ein Hals
 
 <h2 id="prognose">Prognose</h2>
 
-<p>Die Prognose ist sehr gut. Wurde ein Dermoid vollständig entfernt, kann es nicht wiederkommen. Zum Teil bleibt eine leichte Narbenbildung der Hornhaut zurück, die aber das Sehvermögen nicht beeinträchtigt.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Was ist das und wie wird es operiert?]]></summary></entry></feed>
+<p>Die Prognose ist sehr gut. Wurde ein Dermoid vollständig entfernt, kann es nicht wiederkommen. Zum Teil bleibt eine leichte Narbenbildung der Hornhaut zurück, die aber das Sehvermögen nicht beeinträchtigt.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Was ist das und wie wird es operiert?]]></summary></entry><entry><title type="html">Herpeskeratitis und -Konjunktivitis der Katze</title><link href="https://tieraugen.doctor/blog/herpeskeratitis-und-kojunktivitis" rel="alternate" type="text/html" title="Herpeskeratitis und -Konjunktivitis der Katze" /><published>2021-10-12T00:00:00+02:00</published><updated>2021-10-12T00:00:00+02:00</updated><id>https://tieraugen.doctor/blog/herpeskeratitis-und-kojunktivitis</id><content type="html" xml:base="https://tieraugen.doctor/blog/herpeskeratitis-und-kojunktivitis"><![CDATA[<p>Das feline Herpesvirus (FHV) kann bei Katzen zu schwerwiegenden und lang anhaltenden Augenproblemen führen. Viele Katzen sind latent mit dem Virus infiziert. Das Virus führt am Auge häufig zu Hornhautentzündungen und –defekten sowie zu Bindehaut- und Lidentzündungen. Die Katzen ziehen sich dieses Virus häufig im Zuge einer Katzenschnupfeninfektion im Welpenalter zu.</p>
+
+<h2 id="auslöser">AUSLÖSER</h2>
+
+<p>Ein wesentlicher Faktor bei der Entwicklung einer Herpeskeratitis oder -konjunktivitis ist Stress, der das Immunsystem schwächt. Typische Auslöser einer Herpeskeratitis sind eine Zahnsanierung, eine Urlaubsreise der Besitzer, Familienzuwachs oder ein Umzug. Je nach Sensibilität des Tieres können schon kleinere Stressoren wie ein neues Möbelstück ausreichend sein. Auch andere Erkrankungen, die das Wohlbefinden oder Immunsystem beeinträchtigen, wie juckende Hauterkrankungen, Zahnschmerzen, Infektionserkrankungen o.a. können als Auslöser fungieren.</p>
+
+<h2 id="symptome">SYMPTOME</h2>
+
+<p>Betroffene Katzen zeigen häufig eine schnell entstehende Bindehautschwellung, sie kneifen das betroffene Auge zusammen und weisen vermehrten Tränenfluss auf.</p>
+
+<p>Sind nicht nur die Augen betroffen, können auch Niesen und Nasenausfluss hinzukommen (Katzenschnupfen). Dies ist häufig bei Infektionen im Welpenalter der Fall. Besonders sehr junge Katzen zeigen häufig einen schweren Verlauf im Bereich der Augen mit tiefen Hornhautdefekten, die sogar perforieren können. Außerdem entstehen bei Welpen sehr schnell Verwachsungen der Bindehaut mit sich selbst oder der Hornhaut (Symblepharon). Diese können zu dauerhaften Seheinschränkungen führen.</p>
+
+<h2 id="diagnose">DIAGNOSE</h2>
+
+<p>Die Diagnose wird bei der Augenuntersuchung durch die Anamnese und das Erscheinungsbild gestellt. Durch Herpesviren ausgelöste Hornhautdefekte haben häufig ein charakteristisches, verzweigtes Aussehen (dendritischer Defekt).</p>
+
+<p>Zusätzlich steht ein spezieller Test zur Verfügung (PCR), bei dem das Virus in einem Augenabstrich bestimmt werden kann. Leider kann dieser Test, wenn er negativ ausfällt, eine Herpesinfektion nicht ausschließen.</p>
+
+<h2 id="therapie">THERAPIE</h2>
+
+<p>Die Herpeskonjunktivitis (Bindehautentzündung) wird mit antiviralen Medikamenten (Tabletten und/oder Salbe) behandelt. Bei sehr jungen Katzen ist das frühzeitige Lösen von Bindehautverklebungen entscheidend, um Verwachsungen zu vermeiden. Erwachsene Katzen neigen deutlich weniger zu diesen Verklebungen.</p>
+
+<p>Ein Immunstimulanz kann unter die Haut injiziert und oral verabreicht werden, um die eigene Abwehr zu fördern.</p>
+
+<p>Liegt ein Hornhautdefekt vor, sind zusätzlich antibiotische Augentropfen ratsam, um eine bakterielle Infektion der Hornhaut zu behandeln oder zu verhindern. Häufig wird mithilfe eines sterilen Wattestäbchens ein kurzes Debridement des Defektes mit lokal betäubenden Augentropfen vorgenommen.</p>
+
+<p>Manchmal ist auch ein systemisches Antibiotikum zusätzlich sinnvoll, vor allem bei bestehender Schnupfensymptomatik.</p>
+
+<p>Stressvermeidung ist ein wesentlicher Bestandteil der Therapie und Prophylaxe! Deshalb wird die Medikamentenfrequenz so niedrig wie möglich gehalten und auch ein Halskragen sollte nur Verwendung finden, wenn die Patienten stark an den Augen reiben. 
+Das Nahrungsergänzungsmittel L-Lysin wurde viele Jahre zusätzlich eingesetzt. Neuere Studien zeigen aber, dass es keinen therapeutischen oder prophylaktischen Vorteil hat.</p>
+
+<h2 id="komplikationen">KOMPLIKATIONEN</h2>
+
+<p>Im Lauf der Herpesinfektion können sich verschiedene Komplikationen entwickeln.</p>
+
+<h3 id="cornea-nigra">Cornea nigra</h3>
+
+<p>Eine recht häufige Komplikation ist die sogenannte Hornhautnekrose. Sie entwickelt sich aus Hornhautdefekten, die im Zuge der Herpeserkrankung lange nicht ausheilen. Sie ist daran zu erkennen, dass sich die Hornhaut im betroffenen Bereich dunkelbraun bis schwarz verfärbt. In diesem Fall ist eine chirurgische Versorgung ratsam.</p>
+
+<h3 id="entropium">Entropium</h3>
+
+<p>Eine ebenfalls häufige Komplikation ist die Einrollung der Lider (Entropium). Dies entsteht durch das schmerzbedingte, spasmusartige Zukneifen der Augenlider. Die infolgedessen auf der Hornhaut reibenden Haare verschlimmern die Situation zusätzlich. Eine chirurgische Korrektur der Augenlider ist notwendig.</p>
+
+<h3 id="hornhautperforation">Hornhautperforation</h3>
+
+<p>Infiziert sich ein oberflächliches Herpesulcus mit Bakterien, vertieft es sich und kann im schlimmsten Fall perforieren. Ein solcher Defekt sollte chirurgisch versorgt werden, da hier das Sehvermögen und der Augenerhalt gefährdet sind. Je nach Ausmaß, kann hier ein Hornhaut- oder Bindehauttransplantat zum Einsatz kommen. 
+Symblepharon- Bindehautverwachsungen</p>
+
+<p>Vor allem bei Katzenwelpen kann es schnell zu Verwachsungen der Bindehaut mit sich selbst, der Nickhaut oder der Hornhaut kommen. Dies kann, je nach Ausmaß, die Funktion der Lider und das Sehvermögen stark einschränken. Therapeutisch sind diese Verwachsungen nur unvollständig zu beeinflussen. Deshalb ist es besonders bei Welpen wichtig, vorbeugende Maßnahmen zu ergreifen, um das Symblepharon zu verhindern.</p>
+
+<h3 id="verschluss-der-tränenwege">Verschluss der Tränenwege</h3>
+
+<p>Eine häufige Folge einer Herpesinfektion am Auge im Welpenalter ist, dass die ableitenden Tränenwege nicht mehr durchgängig sind. Dies ist in der Regel eine Folge von Verwachsungen der Bindehaut und oberen Tränenwege bei schwerwiegenden Entzündungen. Die Folge kann ein chronisch tränendes Auge sein. Eine chirurgische Therapie ist leider nicht immer erfolgreich. 
+Eosinophile Keratitis</p>
+
+<p>Gleichzeitig oder nach überstandener Herpesinfektion kann es zu einer Hornhautentzündung (Keratitis) kommen. Diese wird vom eigenen Immunsystem ausgelöst und aufrecht erhalten. Die eosinophile Keratitis kann schnell fortschreiten und sogar zur Erblindung führen. Sie ist daran zu erkennen, dass eine Hornhauttrübung mit Blutgefäßen und häufig weißen Auflagerungen auf der Hornhaut auftritt. Sie ist nicht schmerzhaft und bedarf einer gesonderten Therapie.</p>
+
+<h3 id="trockenes-auge">Trockenes Auge</h3>
+
+<p>Trockene Augen sind bei Katzen deutlich seltener als beim Hund. Sie treten hier vor allem nach Herpesinfektionen des Auges auf. Deshalb ist es häufig nach überstandenen Infektionen notwendig, noch eine Zeit befeuchtende Augenmedikamente zu verabreichen.</p>
+
+<h2 id="prophylaxe">PROPHYLAXE</h2>
+
+<p>Viele Katzen tragen das Herpesvirus bereits in sich. Enger Kontakt mit erkrankten Tieren sollte aber vermieden werden. Da der Hauptauslöser für eine letztendliche Erkrankung Stress ist, ist Stressvermeidung, soweit möglich, die beste Prophylaxe. Stehen unvermeidliche stressige Situationen wie ein chirurgischer Eingriff, Urlaub, Umzug u.a. bevor, kann im Vorab bereits ein Medikament zur Immunstärkung injiziert werden.</p>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Überblick über Symptome, Therapie und Komplikationen.]]></summary></entry></feed>
