@@ -51,6 +51,8 @@ author-about: Ich bin Tierärztin mit Zusatzbezeichnung Augenheilkunde und Mitgl
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 #author-url: https://github.com/tierauge
 
+# Adds id for google analytics
+google-analytics: G-HB6RDYDEHG
 
 open-mon: 12 - 17 Uhr
 open-tue: 9 - 14 Uhr
