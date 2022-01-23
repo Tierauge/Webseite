@@ -5,4 +5,4 @@ build:
 	cp CNAME docs/
 
 preview:
-	bundle exec jekyll serve
+	bundle exec jekyll serve --force_polling --livereload

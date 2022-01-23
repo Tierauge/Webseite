@@ -9,7 +9,7 @@ Der Nukleus ist der Kern der Augenlinse.
 Er wird umgeben von der Linsenrinde (Kortex).
 Bei der Nukleussklerose handelt es sich um eine Verdichtung des Linsenkerns (Sklerose = Härtung).
 
-~~~
+<!--excerpt-->
 
 ## Ursache
 

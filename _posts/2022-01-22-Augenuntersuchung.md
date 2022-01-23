@@ -1,13 +1,16 @@
 ---
 title: Die Augenuntersuchung
 layout: post
-post-image: "../assets/images/Bild4aupprbreit.jpg"
+post-image: "../assets/images/Bild6buspaltbreit.jpg"
 description: Ein Überblick über die einzelnen Untersuchungsschritte.
 published: true
+tag:
+    - Untersuchung
+    - Sehtest
+    - Spaltlampe
 ---
 
-![](../assets/images/Bild1au.png)
-
+<img src="../assets/images/Bild1au.jpg" style="width: 100%; max-width: 100%">
 
 Jede Augenuntersuchung startet mit Funktionstests.
 
@@ -17,6 +20,7 @@ Jede Augenuntersuchung startet mit Funktionstests.
 
 Mit der DROHREAKTION kann das Sehen der Augen einzeln überprüft werden. 
 Nähert sich die Hand dem Auge, wird es geschlossen. Das andere Auge wird abgedeckt, damit nicht geschummelt werden kann.
+
 {% figure caption:"Test der Drohreaktion beim Hund" %}
 ![Ein Hund sitzt auf dem Tisch und die Hand des Untersuchers wird vor das linke Auge geführt. Die andere Hand deckt dabei das rechte Auge ab.](../assets/images/Bild2audroh.jpg)
 {% endfigure %}
@@ -24,11 +28,12 @@ Nähert sich die Hand dem Auge, wird es geschlossen. Das andere Auge wird abgede
 Ein weiterer Test ist z.B. der WATTEBAUSCHTEST. 
 Es wird überprüft, ob der Patient der fallenden Watte hinterherschaut.
 Dieser Test kann aber bei desinteressierten oder sehr aufgeregten Tieren unbrauchbar sein.
+
 {% figure caption:"Wattebauschtest beim Hund" %}
 ![Ein Hund sitzt auf dem Untersuchungstisch, ein Auge wird abgedeckt mit der Hand des Untersuchers und ein Wattebausch wird vor dem anderen Auge fallen gelassen.](../assets/images/Bild3auwatte.jpg)
 {% endfigure %}
 
- Weitere Sehtests, die beim Tier im Zweifel zum Einsatz kommen können, sind die Tischkantenprobe und der Hindernisparcour.
+Weitere Sehtests, die beim Tier im Zweifel zum Einsatz kommen können, sind die Tischkantenprobe und der Hindernisparcour.
 
 ## Pupillarreflex
 
@@ -71,7 +76,7 @@ Dadurch können Veränderungen exakt zugeordnet werden (z.B. Trübung der Linse,
 ![Ein Grafik eines Auges stellt die Brechung des Spaltlichtes an den einzelnen Strukturen dar.](../assets/images/Bild9auspalt4.png)
 {% endfigure %}
 
-{% figure caption:"Je nachdem, wo im Spaltlicht die Trübung zu sehen ist, ist ihre Lokalisation im Auge und ihre Art bzw. ihre Ursache genau bestimmbar." %}
+{% figure caption:"Je nachdem, wo im Spaltlicht die Trübung zu sehen ist, ist ihre Lokalisation im Auge und ihre Art bzw. ihre Ursache genau bestimmbar. 1. Trübung in der Hornhaut, 2. Pigment auf der vorderen Linsenkapsel, 3. Trübung innerhalb der Linse, 4. Blutung hinter der Linse." %}
 ![Ein Grafik eines Auges stellt Trübungen im Spaltlicht an den einzelnen Strukturen dar.](../assets/images/Bild10auspalt5.png)
 {% endfigure %}
 
