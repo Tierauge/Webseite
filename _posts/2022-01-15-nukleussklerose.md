@@ -5,7 +5,11 @@ post-image: "../assets/images/Nukleussklerose3.jpg"
 description: Eine altersbedingte Linsentrübung - Ursachen, Symptome, Diagnose, Therapie beim Hund.
 ---
 
-Der Nukleus ist der Kern der Augenlinse. Er wird umgeben von der Linsenrinde (Kortex). Bei der Nukleussklerose handelt es sich um eine Verdichtung des Linsenkerns (Sklerose = Härtung).
+Der Nukleus ist der Kern der Augenlinse.
+Er wird umgeben von der Linsenrinde (Kortex).
+Bei der Nukleussklerose handelt es sich um eine Verdichtung des Linsenkerns (Sklerose = Härtung).
+
+~~~
 
 ## Ursache
 

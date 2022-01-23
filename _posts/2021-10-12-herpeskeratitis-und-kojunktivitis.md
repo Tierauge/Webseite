@@ -5,7 +5,9 @@ post-image: "../assets/images/FHV3.jpg"
 description: Überblick über Symptome, Therapie und Komplikationen.
 ---
 
-Das feline Herpesvirus (FHV) kann bei Katzen zu schwerwiegenden und lang anhaltenden Augenproblemen führen. Viele Katzen sind latent mit dem Virus infiziert. Das Virus führt am Auge häufig zu Hornhautentzündungen und –defekten sowie zu Bindehaut- und Lidentzündungen. Die Katzen ziehen sich dieses Virus häufig im Zuge einer Katzenschnupfeninfektion im Welpenalter zu. 
+Das feline Herpesvirus (FHV) kann bei Katzen zu schwerwiegenden und lang anhaltenden Augenproblemen führen. Viele Katzen sind latent mit dem Virus infiziert. Das Virus führt am Auge häufig zu Hornhautentzündungen und –defekten sowie zu Bindehaut- und Lidentzündungen. Die Katzen ziehen sich dieses Virus häufig im Zuge einer Katzenschnupfeninfektion im Welpenalter zu.
+
+<!--excerpt-->
 
 ## AUSLÖSER
 

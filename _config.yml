@@ -62,6 +62,8 @@ open-fri: 13 - 18 Uhr
 open-sat:
 open-sun:
 
+excerpt_separator: "<!--excerpt-->"
+
 # SASS
 sass:
   sass_dir: _sass

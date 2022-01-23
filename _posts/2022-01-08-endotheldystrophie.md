@@ -7,6 +7,8 @@ description: Beschreibung, Auslöser, Ursachen, Diagnose und Therapie beim Hund.
 
 Die Endotheldystrophie ist eine Erkrankung, bei der sich die Hornhaut Ihres Hundes langsam eintrübt. Diese Erkrankung betrifft v.a. die älteren Tiere. Einige Rassen sind häufiger betroffen als andere wie Dackel und Boston Terrier. 
 
+<!--excerpt-->
+
 ## Auslöser
 
 Die Endothelzellen kleiden die Innenfläche der Hornhaut aus. Ihre Aufgabe ist es, Flüssigkeit aus der Hornhaut zu ‚pumpen‘, so dass sie transparent und dünn (ca. 0,5 mm) bleibt. Bei einer Endotheldystrophie sind diese Zellen stark reduziert. Hornhautendothelzellen können sich leider nicht regenerieren. Die verbleibenden Zellen können sich nur vergrößern und so versuchen den Verlust teilweise auszugleichen. Irgendwann dringt dann mehr und mehr Flüssigkeit des Auges in die normalerweise klare Hornhaut ein, sie quillt auf und dadurch entsteht eine Trübung, ein sogenanntes Hornhautödem.                                                

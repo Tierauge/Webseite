@@ -3,13 +3,15 @@ title: Die Augenuntersuchung
 layout: post
 post-image: "../assets/images/Bild4aupprbreit.jpg"
 description: Ein Überblick über die einzelnen Untersuchungsschritte.
-published: false
+published: true
 ---
 
 ![](../assets/images/Bild1au.png)
 
 
 Jede Augenuntersuchung startet mit Funktionstests.
+
+<!--excerpt-->
 
 ## Sehtest
 
@@ -45,10 +47,10 @@ Dieser Test gibt zusätzliche Informationen über die Funktionsfähigkeit der St
 Ein Patient mit gutem Blendreflex muss nicht zwangsläufig sehen!
 
 {% figure caption:"Blendreflex" %}
-![Bei einem Hund wird auf dem Untersuchungstisch mit heller Lichtquelle in die Augen geleuchtet und der Hund kneift beide Augen geblendet zusammen.](../assets/images/Bild5audazzle.jpg)
+![Bei einem Hund wird auf dem Untersuchungstisch mit heller Lichtquelle in die Augen geleuchtet und der Hund kneift beide Augen geblendet zusammen.](../assets/images/Bild5audazzle.png)
 {% endfigure %}
 
-Jetzt schließt sich die 'eigentliche' Augenuntersuchung an. 
+An die Funktionstests schließt sich nun die 'eigentliche' Augenuntersuchung an. 
 
 ## Spaltlampenuntersuchung
 

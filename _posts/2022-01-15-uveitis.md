@@ -8,6 +8,8 @@ description: Abwarten oder therapieren?
 
 Hierbei handelt es sich streng genommen nicht um eine Erkrankung. Die Konjunktivitis follicularis ist eine häufige Reaktion der Bindehaut junger Hunde auf die unbekannten täglichen Umweltreize. Bei den meisten Hunden verläuft sie symptomlos. Bei einigen Patienten führt sie aber zu klinischen Problemen.
 
+<!--excerpt-->
+
 ## Auslöser
 
 Ausgelöst wird die Junghundbindehautentzündung von Umwelteinflüssen wie Pollen und Staub. Mit diesen und anderen Umweltallergenen setzt sich das Immunsystem der jungen Bindehaut auseinander und lernt sie so kennen. Symptome entwickeln sich eher bei jungen Hunden mit lockeren, weiteren Augenlidern, in die Stäube und Pollen leichter und in größerer Menge hineingelangen können. 

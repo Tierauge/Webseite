@@ -7,6 +7,8 @@ description: Ursache, Symptome und Operation.
 
 Lidrandtumore sind i.d.R. gutartige Tumoren, die direkt am Lidrand sitzen und häufig auf der Hornhaut reiben.  
 
+<!--excerpt-->
+
 ## Ursache
 
 Die Lidrandtumoren entstehen aus den sog. Meibomdrüsen im Lid. Die Ausführungsgänge dieser Drüsen sind als kleine Pünktchen auf dem Lidrand sichtbar. Sie produzieren ein talgiges Sekret, das für die Funktion des Tränenfilms unerlässlich ist. Lidrandtumore sind eine häufige Erkrankung bei mittelalten bis alten Hunden. Auch sehr junge Hunde können schon Lidrandtumore bekommen. Dabei handelt es sich häufig um Warzen (Papillome), die durch ein Virus ausgelöst werden können. Zu über 95% sind Lidrandtumore gutartig. 

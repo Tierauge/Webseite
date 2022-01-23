@@ -9,6 +9,8 @@ Die Iris oder Regenbogenhaut reguliert die Größe der Pupille und somit den Lic
 
 Die Muskulatur der Iris kann im Alter abnehmen (Atrophie). Die Folge ist, dass sich die Pupille immer unvollständiger zusammenziehen kann. Bei fortgeschrittener Atrophie verengt sie sich auch bei sehr hellem Licht gar  nicht mehr.
 
+<!--excerpt-->
+
 ## Diagnose
 
 Bei der Augenuntersuchung wird die Irisatrophie anhand typischer Kriterien erkannt und von anderen Erkrankungen unterschieden. Typischerweise erscheint der Rand der Pupille unregelmäßig, wie ‚ausgefranst‘ oder weist im fortgeschrittenen Stadium sogar Löcher auf. 

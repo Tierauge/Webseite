@@ -6,7 +6,7 @@
         <div class="column has-text-left-desktop has-text-left-tablet">
             <h1 class="title is-size-4-touch">{{post.title}}</h1>
             <div class="content has-text-grey">
-                {{ post.content | truncate: 300 | strip_html | strip_newlines | strip | escape }}
+                {{ post.excerpt | strip_html | truncatewords:75 }}
                 <hr class="has-background-grey">
                 <span class="has-text-grey">Publiziert am <span class="has-text-weight-semibold">
                     {% assign m = post.date | date: "%-m" %}

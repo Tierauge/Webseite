@@ -8,6 +8,8 @@ description: Wenn Pollen und Milben die Hundeaugen jucken lassen...
 
 Bei langanhaltenden und teils therapieresistenten Bindehautentzündungen, sollte an eine allergische Ursache gedacht werden.
 
+<!--excerpt-->
+
 ## Auslöser
 
 Die allergische Konjunktivitis wird meistens von Pollen und Milben, seltener von Schimmelpilzen ausgelöst. Auch Futtermittelallergien können die Bindehäute teilweise mit beeinträchtigen. 
