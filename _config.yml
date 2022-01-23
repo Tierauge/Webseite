@@ -13,6 +13,8 @@ description: <br/>Augenerkrankungen sind bei unseren Haustieren sehr häufig. Ei
 
  <br/><br/>Auf dieser Webseite finden Sie interessante Informationen über gängige Augenerkrankungen von Hunden, Katzen und Heimtieren in der Wissensbank. Außerdem erzählen Patienten ihre Krankengeschichte.
 
+meta-description: Spezialisierte augentierärztliche Behandlung bei Ihrem Tier.
+
 # URL of Image of the Site
 site-image: https://tieraugen.doctor/assets/images/hero.jpg
 # Keywords of the Site
@@ -111,3 +113,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - Makefile
