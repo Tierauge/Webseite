@@ -1,7 +1,7 @@
 ---
 title: Horner Syndrom
 layout: post
-post-image: "../assets/images/Hornergoldi2.jpg"
+post-image: "../assets/images/HornerGoldi2.jpg"
 description: Was ist das, wo kommt es her und wie wird es behandelt?
 ---
 

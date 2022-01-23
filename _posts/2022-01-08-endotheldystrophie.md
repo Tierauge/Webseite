@@ -1,7 +1,7 @@
 ---
 title: Endotheldystrophie
 layout: post
-post-image: "../assets/images/endotheldystrophiebreit.jpg"
+post-image: "../assets/images/Endotheldystrophiebreit.jpg"
 description: Beschreibung, Auslöser, Ursachen, Diagnose und Therapie beim Hund.
 ---
 
@@ -20,15 +20,15 @@ Die Erkrankung tritt bei einigen Rassen erblich auf. Ein gewisser Zellverlust im
 Das erste Symptom ist eine zarte Eintrübung zumeist im äußeren (temporalen) Bereich der Hornhaut. Mit der Zeit verstärkt sich die bläuliche Eintrübung und umfasst irgendwann die gesamte Hornhaut. Dies kann Monate oder sogar Jahre dauern. Am Anfang treten keine Beschwerden auf. Mit der Zeit können sich aber auf der Außenseite der Hornhaut Bläschen (Bullae) bilden. Reißen diese auf, entsteht ein schmerzhaftes Hornhautulcus. Dies führt zum Zukneifen des Auges und Tränen. Diese Hornhautdefekte heilen meist schlecht.
 
 {% figure caption:"**Abb. 1 :** Gesunde Hornhaut" %}
-![Auge mit klarer Hornhaut](../assets/images/edgrafik1.png)
+![Auge mit klarer Hornhaut](../assets/images/EDgrafik1.png)
 {% endfigure %}
 
 {% figure caption:"**Abb. 2 :** Anfangsstadium der Endotheldystrophie mit dezenter Trübung temporal" %}
-![Auge mit kleiner rundlicher Trübung im äußeren Bereich der Hornhaut](../assets/images/edgrafik2.png)
+![Auge mit kleiner rundlicher Trübung im äußeren Bereich der Hornhaut](../assets/images/EDgrafik2.png)
 {% endfigure %}
 
 {% figure caption:"**Abb. 3 :** Fortgeschrittenes Stadium mit Ödem der gesamten Hornhaut" %}
-![Auge mit vollständig trüber, undurchsichtiger Hornhaut](../assets/images/edgrafik2.png)
+![Auge mit vollständig trüber, undurchsichtiger Hornhaut](../assets/images/EDgrafik2.png)
 {% endfigure %}
 
 ## Diagnose

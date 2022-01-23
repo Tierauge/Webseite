@@ -1,7 +1,7 @@
 ---
 title: Lidrandtumor
 layout: post
-post-image: "../assets/images/lidrandtumor2.jpg"
+post-image: "../assets/images/Lidrandtumor2.jpg"
 description: Ursache, Symptome und Operation.
 ---
 
