@@ -3,11 +3,11 @@ title: Die Augenuntersuchung
 layout: post
 post-image: "../assets/images/Bild4aupprbreit.jpg"
 description: Ein Überblick über die einzelnen Untersuchungsschritte.
+published: false
 ---
 
-{% figure caption:"**Abb. 1 :** " %}
 ![](../assets/images/Bild1au.png)
-{% endfigure %}
+
 
 Jede Augenuntersuchung startet mit Funktionstests.
 
@@ -15,14 +15,14 @@ Jede Augenuntersuchung startet mit Funktionstests.
 
 Mit der DROHREAKTION kann das Sehen der Augen einzeln überprüft werden. 
 Nähert sich die Hand dem Auge, wird es geschlossen. Das andere Auge wird abgedeckt, damit nicht geschummelt werden kann.
-{% figure caption:"**Abb. 2 :** Test der Drohreaktion beim Hund" %}
+{% figure caption:"Test der Drohreaktion beim Hund" %}
 ![Ein Hund sitzt auf dem Tisch und die Hand des Untersuchers wird vor das linke Auge geführt. Die andere Hand deckt dabei das rechte Auge ab.](../assets/images/Bild2audroh.jpg)
 {% endfigure %}
 
 Ein weiterer Test ist z.B. der WATTEBAUSCHTEST. 
 Es wird überprüft, ob der Patient der fallenden Watte hinterherschaut.
 Dieser Test kann aber bei desinteressierten oder sehr aufgeregten Tieren unbrauchbar sein.
-{% figure caption:"**Abb. 3 :** Wattebauschtest beim Hund" %}
+{% figure caption:"Wattebauschtest beim Hund" %}
 ![Ein Hund sitzt auf dem Untersuchungstisch, ein Auge wird abgedeckt mit der Hand des Untersuchers und ein Wattebausch wird vor dem anderen Auge fallen gelassen.](../assets/images/Bild3auwatte.jpg)
 {% endfigure %}
 
@@ -34,7 +34,7 @@ Die Pupillenreaktion auf Licht gibt wichtige Hinweise auf mögliche Erkrankungen
 Im Normalfall verengt sich sowohl die direkt beleuchtete Pupille (direkter Reflex) als auch die Pupille der anderen Seite (indirekter Reflex).
 Ein normaler Pupillarreflex beweist aber nicht, dass der Patient sieht!
 
-{% figure caption:"**Abb. 4 :** Pupillarreflex" %}
+{% figure caption:"Pupillarreflex" %}
 ![Bei einer Katze wird in ein Auge geleuchtet und die Pupille verengt sich.](../assets/images/Bild4auppr.jpg)
 {% endfigure %}
 
@@ -44,7 +44,7 @@ Der Blendreflex überprüft die Reaktion auf helles Licht. Normal ist es, dass d
 Dieser Test gibt zusätzliche Informationen über die Funktionsfähigkeit der Strukturen von den Augen bis knapp unterhalb der Sehrinde des Gehirns.
 Ein Patient mit gutem Blendreflex muss nicht zwangsläufig sehen!
 
-{% figure caption:"**Abb. 4 :** Blendreflex" %}
+{% figure caption:"Blendreflex" %}
 ![Bei einem Hund wird auf dem Untersuchungstisch mit heller Lichtquelle in die Augen geleuchtet und der Hund kneift beide Augen geblendet zusammen.](../assets/images/Bild5audazzle.jpg)
 {% endfigure %}
 
@@ -57,19 +57,19 @@ Auch sehr kleine Veränderungen können so gut beurteilt und genau lokalisiert w
 Die Spaltlampe heißt so, weil sie durch ihr spaltförmiges Licht ein optisches „In-Scheiben-Schneiden“ des Auges ermöglicht.
 Dadurch können Veränderungen exakt zugeordnet werden (z.B. Trübung der Linse, der Vorderkammer oder der Hornhaut).
 
-{% figure caption:"**Abb. 5 :** Spaltlampe" %}
+{% figure caption:"Spaltlampe" %}
 ![Fotografie einer Spaltlampe](../assets/images/Bild7auspaltlampe.jpg)
 {% endfigure %}
 
-{% figure caption:"**Abb. 6 :** Spaltlampenuntersuchung" %}
+{% figure caption:"Spaltlampenuntersuchung" %}
 ![Eine Katze wird auf einem Tisch mit der Spaltlampe untersucht.](../assets/images/Bild6auspalt.jpg)
 {% endfigure %}
 
-{% figure caption:"**Abb. 7 :** Optisches „In-Scheiben-Schneiden“ des Auges. Das spaltförmige Licht bricht sich zuerst an der Hornhaut (1.) dann an der vorderen (2.) und zuletzt an der hinteren Linsenkapsel (3.)." %}
+{% figure caption:"Optisches „In-Scheiben-Schneiden“ des Auges. Das spaltförmige Licht bricht sich zuerst an der Hornhaut (1.) dann an der vorderen (2.) und zuletzt an der hinteren Linsenkapsel (3.)." %}
 ![Ein Grafik eines Auges stellt die Brechung des Spaltlichtes an den einzelnen Strukturen dar.](../assets/images/Bild9auspalt4.png)
 {% endfigure %}
 
-{% figure caption:"**Abb. 8 :** Je nachdem, wo im Spaltlicht die Trübung zu sehen ist, ist ihre Lokalisation im Auge und ihre Art bzw. ihre Ursache genau bestimmbar." %}
+{% figure caption:"Je nachdem, wo im Spaltlicht die Trübung zu sehen ist, ist ihre Lokalisation im Auge und ihre Art bzw. ihre Ursache genau bestimmbar." %}
 ![Ein Grafik eines Auges stellt Trübungen im Spaltlicht an den einzelnen Strukturen dar.](../assets/images/Bild10auspalt5.png)
 {% endfigure %}
 
