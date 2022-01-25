@@ -3,7 +3,6 @@ title: Die Augenuntersuchung
 layout: post
 post-image: "../assets/images/Bild6buspaltbreit.jpg"
 description: Ein Überblick über die einzelnen Untersuchungsschritte.
-published: true
 tag:
     - Untersuchung
     - Sehtest
@@ -81,3 +80,21 @@ Dadurch können Veränderungen exakt zugeordnet werden (z.B. Trübung der Linse,
 {% endfigure %}
 
 Mit der Spaltlampe wird das Kammerwasser beurteilt. Das Kammerwasser ist normalerweise klar und nicht zu sehen im Spaltlicht. Bei Entzündungen des inneren Auges (Regenbogenhautentzündung) wird das Kammerwasser trüb und streut das Licht (ähnlich Sonnenstrahlen in der Luft). Es wird plötzlich sichtbar (Pfeile). 
+
+## Untersuchung der Netzhaut
+
+Die Netzhaut (Retina) wird mit der sogenannten Spiegelung (indirekte Ophthalmoskopie) untersucht. Dafür werden spezielle Linsen verwandt. Um die gesamte Netzhaut einsehen zu können, müssen die Pupillen mit Augentropfen weit gestellt werden.
+
+{% figure caption:"Untersuchung der Netzhaut mit Kopfbandophthalmoskop" %}
+![Das Bild zeigt einen Hund auf dem Tisch, der von einem Untersucher mit einem Gerät names Kopfbandophthalmoskop auf Netzhauterkrankungen untersucht wird.](../assets/images/Bild14aufundus1a.jpg)
+{% endfigure %}
+
+Die Untersuchung der Netzhaut dient beispielsweise dazu Entzündungen, Degenerationen, Ablösungen oder auch Blutungen in diesem Bereich zu sehen. Sie ist aber natürlich auch Teil von Vorsorgeuntersuchungen.
+
+{% figure caption:"Die Netzhaut des Hundes kann verschiedene Farben annehmen" %}
+![Das Bild zeigt 3 Bilder von Netzhäuten, von denen eine blau, eine orange und eine gelblich ist.](../assets/images/Bild15auretinae.png)
+{% endfigure %}
+
+{% figure caption:"Aufbau der Retina des Hundes" %}
+![Das Bild zeigt eine Netzhautfotografie mit Bezeichnung der einzelnen Anteile.](../assets/images/Retina2.png)
+{% endfigure %}
