@@ -104,7 +104,7 @@ Die Netzhaut (Retina) wird mit der sogenannten Spiegelung (indirekte Ophthalmosk
 
 {% figure caption:"Untersuchung der Netzhaut mit Kopfbandophthalmoskop" %}
 
-{% picture assets/images/Bild14aufundus1a.jpg --alt Das Bild zeigt einen Hund auf dem Tisch, der von einem Untersucher mit einem Gerät names Kopfbandophthalmoskop auf Netzhauterkrankungen untersucht wird. %}
+{% picture assets/images/Bild14aufundus1.jpg --alt Das Bild zeigt einen Hund auf dem Tisch, der von einem Untersucher mit einem Gerät names Kopfbandophthalmoskop auf Netzhauterkrankungen untersucht wird. %}
 
 {% endfigure %}
 
