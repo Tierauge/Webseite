@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://tieraugen.doctor/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tieraugen.doctor/" rel="alternate" type="text/html" /><updated>2022-01-25T20:19:27+01:00</updated><id>https://tieraugen.doctor/feed.xml</id><title type="html">Augentierarzt Greifswald</title><subtitle>&lt;br/&gt;Augenerkrankungen sind bei unseren Haustieren sehr häufig. Eine spezialisierte Diagnostik und zielgerichtete Therapie sind entscheidend.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://tieraugen.doctor/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tieraugen.doctor/" rel="alternate" type="text/html" /><updated>2022-01-27T12:20:33+01:00</updated><id>https://tieraugen.doctor/feed.xml</id><title type="html">Augentierarzt Greifswald</title><subtitle>&lt;br/&gt;Augenerkrankungen sind bei unseren Haustieren sehr häufig. Eine spezialisierte Diagnostik und zielgerichtete Therapie sind entscheidend.
 &lt;br/&gt;&lt;br/&gt;Auf dieser Webseite finden Sie interessante Informationen über gängige Augenerkrankungen von Hunden, Katzen und Heimtieren in der Wissensbank. Außerdem erzählen Patienten ihre Krankengeschichte.</subtitle><entry><title type="html">Die Augenuntersuchung</title><link href="https://tieraugen.doctor/blog/Augenuntersuchung" rel="alternate" type="text/html" title="Die Augenuntersuchung" /><published>2022-01-22T00:00:00+01:00</published><updated>2022-01-22T00:00:00+01:00</updated><id>https://tieraugen.doctor/blog/Augenuntersuchung</id><content type="html" xml:base="https://tieraugen.doctor/blog/Augenuntersuchung"><![CDATA[<p><img src="../assets/images/Bild1au.jpg" style="width: 100%; max-width: 100%" /></p>
 
 <p>Jede Augenuntersuchung startet mit Funktionstests.</p>
@@ -11,7 +11,8 @@
 Nähert sich die Hand dem Auge, wird es geschlossen. Das andere Auge wird abgedeckt, damit nicht geschummelt werden kann.</p>
 
 <figure>
-<p><img src="../assets/images/Bild2audroh.jpg" alt="Ein Hund sitzt auf dem Tisch und die Hand des Untersuchers wird vor das linke Auge geführt. Die andere Hand deckt dabei das rechte Auge ab." /></p>
+<p><img src="/generated/assets/images/Bild2audroh-500-d36f6c014.jpg" alt="Ein Hund sitzt auf dem Tisch und die Hand des Untersuchers wird vor das linke Auge geführt. Die andere Hand deckt dabei das rechte Auge ab." srcset="/generated/assets/images/Bild2audroh-400-d36f6c014.jpg 400w, /generated/assets/images/Bild2audroh-500-d36f6c014.jpg 500w" /></p>
+
   <figcaption>Test der Drohreaktion beim Hund</figcaption>
 </figure>
 
@@ -20,7 +21,8 @@ Es wird überprüft, ob der Patient der fallenden Watte hinterherschaut.
 Dieser Test kann aber bei desinteressierten oder sehr aufgeregten Tieren unbrauchbar sein.</p>
 
 <figure>
-<p><img src="../assets/images/Bild3auwatte.jpg" alt="Ein Hund sitzt auf dem Untersuchungstisch, ein Auge wird abgedeckt mit der Hand des Untersuchers und ein Wattebausch wird vor dem anderen Auge fallen gelassen." /></p>
+<p><img src="/generated/assets/images/Bild3auwatte-500-1f8ad5047.jpg" alt="Ein Hund sitzt auf dem Untersuchungstisch, ein Auge wird abgedeckt mit der Hand des Untersuchers und ein Wattebausch wird vor dem anderen Auge fallen gelassen." srcset="/generated/assets/images/Bild3auwatte-400-1f8ad5047.jpg 400w, /generated/assets/images/Bild3auwatte-500-1f8ad5047.jpg 500w" /></p>
+
   <figcaption>Wattebauschtest beim Hund</figcaption>
 </figure>
 
@@ -33,7 +35,8 @@ Im Normalfall verengt sich sowohl die direkt beleuchtete Pupille (direkter Refle
 Ein normaler Pupillarreflex beweist aber nicht, dass der Patient sieht!</p>
 
 <figure>
-<p><img src="../assets/images/Bild4auppr.jpg" alt="Bei einer Katze wird in ein Auge geleuchtet und die Pupille verengt sich." /></p>
+<p><img src="/generated/assets/images/Bild4auppr-500-d33a5e635.jpg" alt="Bei einer Katze wird in ein Auge geleuchtet und die Pupille verengt sich." srcset="/generated/assets/images/Bild4auppr-400-d33a5e635.jpg 400w, /generated/assets/images/Bild4auppr-500-d33a5e635.jpg 500w" /></p>
+
   <figcaption>Pupillarreflex</figcaption>
 </figure>
 
@@ -44,7 +47,8 @@ Dieser Test gibt zusätzliche Informationen über die Funktionsfähigkeit der St
 Ein Patient mit gutem Blendreflex muss nicht zwangsläufig sehen!</p>
 
 <figure>
-<p><img src="../assets/images/Bild5audazzle.png" alt="Bei einem Hund wird auf dem Untersuchungstisch mit heller Lichtquelle in die Augen geleuchtet und der Hund kneift beide Augen geblendet zusammen." /></p>
+<p><img src="/generated/assets/images/Bild5audazzle-500-b8ff69187.png" alt="Bei einem Hund wird auf dem Untersuchungstisch mit heller Lichtquelle in die Augen geleuchtet und der Hund kneift beide Augen geblendet zusammen." srcset="/generated/assets/images/Bild5audazzle-400-b8ff69187.png 400w, /generated/assets/images/Bild5audazzle-500-b8ff69187.png 500w" /></p>
+
   <figcaption>Blendreflex</figcaption>
 </figure>
 
@@ -58,22 +62,26 @@ Die Spaltlampe heißt so, weil sie durch ihr spaltförmiges Licht ein optisches 
 Dadurch können Veränderungen exakt zugeordnet werden (z.B. Trübung der Linse, der Vorderkammer oder der Hornhaut).</p>
 
 <figure>
-<p><img src="../assets/images/Bild7auspaltlampe.jpg" alt="Fotografie einer Spaltlampe" /></p>
+<p><img src="/generated/assets/images/Bild7auspaltlampe-439-0b6fdc392.jpg" alt="Fotografie einer Spaltlampe" srcset="/generated/assets/images/Bild7auspaltlampe-400-0b6fdc392.jpg 400w, /generated/assets/images/Bild7auspaltlampe-439-0b6fdc392.jpg 439w" /></p>
+
   <figcaption>Spaltlampe</figcaption>
 </figure>
 
 <figure>
-<p><img src="../assets/images/Bild6auspalt.jpg" alt="Eine Katze wird auf einem Tisch mit der Spaltlampe untersucht." /></p>
+<p><img src="/generated/assets/images/Bild6auspalt-550-988b75d5e.jpg" alt="Eine Katze wird auf einem Tisch mit der Spaltlampe untersucht." srcset="/generated/assets/images/Bild6auspalt-400-988b75d5e.jpg 400w, /generated/assets/images/Bild6auspalt-550-988b75d5e.jpg 550w" /></p>
+
   <figcaption>Spaltlampenuntersuchung</figcaption>
 </figure>
 
 <figure>
-<p><img src="../assets/images/Bild9auspalt4.png" alt="Ein Grafik eines Auges stellt die Brechung des Spaltlichtes an den einzelnen Strukturen dar." /></p>
+<p><img src="/generated/assets/images/Bild9auspalt4-800-6994387c5.png" alt="Ein Grafik eines Auges stellt die Brechung des Spaltlichtes an den einzelnen Strukturen dar." srcset="/generated/assets/images/Bild9auspalt4-400-6994387c5.png 400w, /generated/assets/images/Bild9auspalt4-600-6994387c5.png 600w, /generated/assets/images/Bild9auspalt4-800-6994387c5.png 800w, /generated/assets/images/Bild9auspalt4-1000-6994387c5.png 1000w" /></p>
+
   <figcaption>Optisches „In-Scheiben-Schneiden“ des Auges. Das spaltförmige Licht bricht sich zuerst an der Hornhaut (1.) dann an der vorderen (2.) und zuletzt an der hinteren Linsenkapsel (3.).</figcaption>
 </figure>
 
 <figure>
-<p><img src="../assets/images/Bild10auspalt5.png" alt="Ein Grafik eines Auges stellt Trübungen im Spaltlicht an den einzelnen Strukturen dar." /></p>
+<p><img src="/generated/assets/images/Bild10auspalt5-800-0525da420.png" alt="Ein Grafik eines Auges stellt Trübungen im Spaltlicht an den einzelnen Strukturen dar." srcset="/generated/assets/images/Bild10auspalt5-400-0525da420.png 400w, /generated/assets/images/Bild10auspalt5-600-0525da420.png 600w, /generated/assets/images/Bild10auspalt5-800-0525da420.png 800w, /generated/assets/images/Bild10auspalt5-1000-0525da420.png 1000w" /></p>
+
   <figcaption>Je nachdem, wo im Spaltlicht die Trübung zu sehen ist, ist ihre Lokalisation im Auge und ihre Art bzw. ihre Ursache genau bestimmbar. 1. Trübung in der Hornhaut, 2. Pigment auf der vorderen Linsenkapsel, 3. Trübung innerhalb der Linse, 4. Blutung hinter der Linse.</figcaption>
 </figure>
 
@@ -84,19 +92,22 @@ Dadurch können Veränderungen exakt zugeordnet werden (z.B. Trübung der Linse,
 <p>Die Netzhaut (Retina) wird mit der sogenannten Spiegelung (indirekte Ophthalmoskopie) untersucht. Dafür werden spezielle Linsen verwandt. Um die gesamte Netzhaut einsehen zu können, müssen die Pupillen mit Augentropfen weit gestellt werden.</p>
 
 <figure>
-<p><img src="../assets/images/Bild14aufundus1a.jpg" alt="Das Bild zeigt einen Hund auf dem Tisch, der von einem Untersucher mit einem Gerät names Kopfbandophthalmoskop auf Netzhauterkrankungen untersucht wird." /></p>
+<p><img src="/generated/assets/images/Bild14aufundus1a-501-3c5f8808a.jpg" alt="Das Bild zeigt einen Hund auf dem Tisch, der von einem Untersucher mit einem Gerät names Kopfbandophthalmoskop auf Netzhauterkrankungen untersucht wird." srcset="/generated/assets/images/Bild14aufundus1a-400-3c5f8808a.jpg 400w, /generated/assets/images/Bild14aufundus1a-501-3c5f8808a.jpg 501w" /></p>
+
   <figcaption>Untersuchung der Netzhaut mit Kopfbandophthalmoskop</figcaption>
 </figure>
 
 <p>Die Untersuchung der Netzhaut dient beispielsweise dazu Entzündungen, Degenerationen, Ablösungen oder auch Blutungen in diesem Bereich zu sehen. Sie ist aber natürlich auch Teil von Vorsorgeuntersuchungen.</p>
 
 <figure>
-<p><img src="../assets/images/Bild15auretinae.png" alt="Das Bild zeigt 3 Bilder von Netzhäuten, von denen eine blau, eine orange und eine gelblich ist." /></p>
+<p><img src="/generated/assets/images/Bild15auretinae-762-bedb77dea.png" alt="Das Bild zeigt 3 Bilder von Netzhäuten, von denen eine blau, eine orange und eine gelblich ist." srcset="/generated/assets/images/Bild15auretinae-400-bedb77dea.png 400w, /generated/assets/images/Bild15auretinae-600-bedb77dea.png 600w, /generated/assets/images/Bild15auretinae-762-bedb77dea.png 762w" /></p>
+
   <figcaption>Die Netzhaut des Hundes kann verschiedene Farben annehmen</figcaption>
 </figure>
 
 <figure>
-<p><img src="../assets/images/Retina2.png" alt="Das Bild zeigt eine Netzhautfotografie mit Bezeichnung der einzelnen Anteile." /></p>
+<p><img src="/generated/assets/images/Retina2-800-e6bab499d.png" alt="Das Bild zeigt eine Netzhautfotografie mit Bezeichnung der einzelnen Anteile." srcset="/generated/assets/images/Retina2-400-e6bab499d.png 400w, /generated/assets/images/Retina2-600-e6bab499d.png 600w, /generated/assets/images/Retina2-800-e6bab499d.png 800w" /></p>
+
   <figcaption>Aufbau der Retina des Hundes</figcaption>
 </figure>]]></content><author><name></name></author><category term="Untersuchung" /><category term="Sehtest" /><category term="Spaltlampe" /><summary type="html"><![CDATA[Ein Überblick über die einzelnen Untersuchungsschritte.]]></summary></entry><entry><title type="html">Nukleussklerose</title><link href="https://tieraugen.doctor/blog/nukleussklerose" rel="alternate" type="text/html" title="Nukleussklerose" /><published>2022-01-15T00:00:00+01:00</published><updated>2022-01-15T00:00:00+01:00</updated><id>https://tieraugen.doctor/blog/nukleussklerose</id><content type="html" xml:base="https://tieraugen.doctor/blog/nukleussklerose"><![CDATA[<p>Der Nukleus ist der Kern der Augenlinse.
 Er wird umgeben von der Linsenrinde (Kortex).
