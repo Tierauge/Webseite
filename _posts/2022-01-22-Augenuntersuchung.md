@@ -125,3 +125,27 @@ Die Untersuchung der Netzhaut dient beispielsweise dazu Entzündungen, Degenerat
 ## Augeninnendruckmessung - Tonometrie
 
 Die Tonometrie ist die Messung des inneren Augendrucks. Sie erfolgt mit speziellen Geräten sog. Tonometern und dient vor allem der Diagnose des Glaukoms (grüner Star) und ist ein wichtiger Teil der Augenuntersuchung.
+Ist der Druck zu hoch, hat Ihr Tier einen sog. Grünen Star (Glaukom). Ein zu niedriger Druck hingegen, tritt bei Entzündungen des inneren Auges auf (Uveitis).
+
+{% figure caption:"Messung mit dem TonoVet: Ein kleiner Stab schnellt auf die Hornhaut und misst so den Druck (Rückstoßtonometrie). Dies ist nicht schmerzhaft, sondern fühlt sich an wie ein kleines Haar.
+" %}
+
+{% picture assets/images/Bild16autonovet.jpg --alt Das Bild zeigt eine Katze, bei der der Augeninnendruck mit der Rückstoßtonometrie gemessen wird. %}
+
+{% endfigure %}
+
+{% figure caption:"Messung mit dem TonoPen: Die Spitze des TonoPens berührt die Hornhaut und misst über deren Abflachung den Augeninnendruck (Applanationstonometrie). Ein Lokalanästhetikum wird vorab in das Auge getropft." %}
+
+{% picture assets/images/Bild17autonopen.jpg --alt Das Bild zeigt eine Katze, bei der der Augeninnendruck mit der Applanationstonometrie gemessen wird. %}
+
+{% endfigure %}
+
+## Überprüfung der Tränenproduktion mit dem Schirmer Tränentest (STT)
+
+Die Tränenproduktion wird mit speziellen Papierstreifen überprüft (Schirmer Tränentest). So kann ein trockenes Auge erkannt werden. Die Teststreifen werden in das Unterlid eingehängt und nehmen die gebildete Tränenmenge (den sog. Reiztränenfluss) auf. Auf der Skala kann dann der erreichte Wert abgelesen werden.
+
+{% figure caption:"Schirmer Tränenteststreifen" %}
+
+{% picture assets/images/STT.png --alt Das Bild zeigt einen Papierstreifen mit einer Skala, den Schirmer Tränentest. %}
+
+{% endfigure %}
