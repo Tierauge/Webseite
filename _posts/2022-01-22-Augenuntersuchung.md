@@ -1,7 +1,7 @@
 ---
 title: Die Augenuntersuchung
 layout: post
-post-image: "../assets/images/Bild6buspaltbreit.jpg"
+post-image: "../assets/images/Bild6buspaltbreit-sk.jpg"
 description: Ein Überblick über die einzelnen Untersuchungsschritte.
 tag:
     - Untersuchung
@@ -10,6 +10,7 @@ tag:
 ---
 
 <img src="../assets/images/Bild1au.jpg" style="width: 100%; max-width: 100%">
+
 
 Jede Augenuntersuchung startet mit Funktionstests.
 
@@ -21,7 +22,9 @@ Mit der DROHREAKTION kann das Sehen der Augen einzeln überprüft werden.
 Nähert sich die Hand dem Auge, wird es geschlossen. Das andere Auge wird abgedeckt, damit nicht geschummelt werden kann.
 
 {% figure caption:"Test der Drohreaktion beim Hund" %}
-![Ein Hund sitzt auf dem Tisch und die Hand des Untersuchers wird vor das linke Auge geführt. Die andere Hand deckt dabei das rechte Auge ab.](../assets/images/Bild2audroh.jpg)
+
+{% picture assets/images/Bild2audroh.jpg --alt Ein Hund sitzt auf dem Tisch und die Hand des Untersuchers wird vor das linke Auge geführt. Die andere Hand deckt dabei das rechte Auge ab. %}
+
 {% endfigure %}
 
 Ein weiterer Test ist z.B. der WATTEBAUSCHTEST. 
@@ -29,7 +32,9 @@ Es wird überprüft, ob der Patient der fallenden Watte hinterherschaut.
 Dieser Test kann aber bei desinteressierten oder sehr aufgeregten Tieren unbrauchbar sein.
 
 {% figure caption:"Wattebauschtest beim Hund" %}
-![Ein Hund sitzt auf dem Untersuchungstisch, ein Auge wird abgedeckt mit der Hand des Untersuchers und ein Wattebausch wird vor dem anderen Auge fallen gelassen.](../assets/images/Bild3auwatte.jpg)
+
+{% picture assets/images/Bild3auwatte.jpg --alt Ein Hund sitzt auf dem Untersuchungstisch, ein Auge wird abgedeckt mit der Hand des Untersuchers und ein Wattebausch wird vor dem anderen Auge fallen gelassen. %}
+
 {% endfigure %}
 
 Weitere Sehtests, die beim Tier im Zweifel zum Einsatz kommen können, sind die Tischkantenprobe und der Hindernisparcour.
@@ -41,7 +46,9 @@ Im Normalfall verengt sich sowohl die direkt beleuchtete Pupille (direkter Refle
 Ein normaler Pupillarreflex beweist aber nicht, dass der Patient sieht!
 
 {% figure caption:"Pupillarreflex" %}
-![Bei einer Katze wird in ein Auge geleuchtet und die Pupille verengt sich.](../assets/images/Bild4auppr.jpg)
+
+{% picture assets/images/Bild4auppr.jpg --alt Bei einer Katze wird in ein Auge geleuchtet und die Pupille verengt sich. %}
+
 {% endfigure %}
 
 ## Blendreflex (Dazzle)
@@ -51,7 +58,9 @@ Dieser Test gibt zusätzliche Informationen über die Funktionsfähigkeit der St
 Ein Patient mit gutem Blendreflex muss nicht zwangsläufig sehen!
 
 {% figure caption:"Blendreflex" %}
-![Bei einem Hund wird auf dem Untersuchungstisch mit heller Lichtquelle in die Augen geleuchtet und der Hund kneift beide Augen geblendet zusammen.](../assets/images/Bild5audazzle.png)
+
+{% picture assets/images/Bild5audazzle.png --alt Bei einem Hund wird auf dem Untersuchungstisch mit heller Lichtquelle in die Augen geleuchtet und der Hund kneift beide Augen geblendet zusammen. %}
+
 {% endfigure %}
 
 An die Funktionstests schließt sich nun die 'eigentliche' Augenuntersuchung an. 
@@ -64,19 +73,27 @@ Die Spaltlampe heißt so, weil sie durch ihr spaltförmiges Licht ein optisches 
 Dadurch können Veränderungen exakt zugeordnet werden (z.B. Trübung der Linse, der Vorderkammer oder der Hornhaut).
 
 {% figure caption:"Spaltlampe" %}
-![Fotografie einer Spaltlampe](../assets/images/Bild7auspaltlampe.jpg)
+
+{% picture assets/images/Bild7auspaltlampe.jpg --alt Fotografie einer Spaltlampe %}
+
 {% endfigure %}
 
 {% figure caption:"Spaltlampenuntersuchung" %}
-![Eine Katze wird auf einem Tisch mit der Spaltlampe untersucht.](../assets/images/Bild6auspalt.jpg)
+
+{% picture assets/images/Bild6auspalt.jpg --alt Eine Katze wird auf einem Tisch mit der Spaltlampe untersucht. %}
+
 {% endfigure %}
 
 {% figure caption:"Optisches „In-Scheiben-Schneiden“ des Auges. Das spaltförmige Licht bricht sich zuerst an der Hornhaut (1.) dann an der vorderen (2.) und zuletzt an der hinteren Linsenkapsel (3.)." %}
-![Ein Grafik eines Auges stellt die Brechung des Spaltlichtes an den einzelnen Strukturen dar.](../assets/images/Bild9auspalt4.png)
+
+{% picture assets/images/Bild9auspalt4.png --alt Ein Grafik eines Auges stellt die Brechung des Spaltlichtes an den einzelnen Strukturen dar. %}
+
 {% endfigure %}
 
 {% figure caption:"Je nachdem, wo im Spaltlicht die Trübung zu sehen ist, ist ihre Lokalisation im Auge und ihre Art bzw. ihre Ursache genau bestimmbar. 1. Trübung in der Hornhaut, 2. Pigment auf der vorderen Linsenkapsel, 3. Trübung innerhalb der Linse, 4. Blutung hinter der Linse." %}
-![Ein Grafik eines Auges stellt Trübungen im Spaltlicht an den einzelnen Strukturen dar.](../assets/images/Bild10auspalt5.png)
+
+{% picture assets/images/Bild10auspalt5.png --alt Ein Grafik eines Auges stellt Trübungen im Spaltlicht an den einzelnen Strukturen dar. %}
+
 {% endfigure %}
 
 Mit der Spaltlampe wird das Kammerwasser beurteilt. Das Kammerwasser ist normalerweise klar und nicht zu sehen im Spaltlicht. Bei Entzündungen des inneren Auges (Regenbogenhautentzündung) wird das Kammerwasser trüb und streut das Licht (ähnlich Sonnenstrahlen in der Luft). Es wird plötzlich sichtbar (Pfeile). 
@@ -86,15 +103,21 @@ Mit der Spaltlampe wird das Kammerwasser beurteilt. Das Kammerwasser ist normale
 Die Netzhaut (Retina) wird mit der sogenannten Spiegelung (indirekte Ophthalmoskopie) untersucht. Dafür werden spezielle Linsen verwandt. Um die gesamte Netzhaut einsehen zu können, müssen die Pupillen mit Augentropfen weit gestellt werden.
 
 {% figure caption:"Untersuchung der Netzhaut mit Kopfbandophthalmoskop" %}
-![Das Bild zeigt einen Hund auf dem Tisch, der von einem Untersucher mit einem Gerät names Kopfbandophthalmoskop auf Netzhauterkrankungen untersucht wird.](../assets/images/Bild14aufundus1a.jpg)
+
+{% picture assets/images/Bild14aufundus1a.jpg --alt Das Bild zeigt einen Hund auf dem Tisch, der von einem Untersucher mit einem Gerät names Kopfbandophthalmoskop auf Netzhauterkrankungen untersucht wird. %}
+
 {% endfigure %}
 
 Die Untersuchung der Netzhaut dient beispielsweise dazu Entzündungen, Degenerationen, Ablösungen oder auch Blutungen in diesem Bereich zu sehen. Sie ist aber natürlich auch Teil von Vorsorgeuntersuchungen.
 
 {% figure caption:"Die Netzhaut des Hundes kann verschiedene Farben annehmen" %}
-![Das Bild zeigt 3 Bilder von Netzhäuten, von denen eine blau, eine orange und eine gelblich ist.](../assets/images/Bild15auretinae.png)
+
+{% picture assets/images/Bild15auretinae.png --alt Das Bild zeigt 3 Bilder von Netzhäuten, von denen eine blau, eine orange und eine gelblich ist. %}
+
 {% endfigure %}
 
 {% figure caption:"Aufbau der Retina des Hundes" %}
-![Das Bild zeigt eine Netzhautfotografie mit Bezeichnung der einzelnen Anteile.](../assets/images/Retina2.png)
+
+{% picture assets/images/Retina2.png --alt Das Bild zeigt eine Netzhautfotografie mit Bezeichnung der einzelnen Anteile. %}
+
 {% endfigure %}
