@@ -121,3 +121,7 @@ Die Untersuchung der Netzhaut dient beispielsweise dazu Entzündungen, Degenerat
 {% picture assets/images/Retina2.png --alt Das Bild zeigt eine Netzhautfotografie mit Bezeichnung der einzelnen Anteile. %}
 
 {% endfigure %}
+
+## Augeninnendruckmessung - Tonometrie
+
+Die Tonometrie ist die Messung des inneren Augendrucks. Sie erfolgt mit speziellen Geräten sog. Tonometern und dient vor allem der Diagnose des Glaukoms (grüner Star) und ist ein wichtiger Teil der Augenuntersuchung.
