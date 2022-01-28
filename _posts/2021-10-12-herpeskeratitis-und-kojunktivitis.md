@@ -42,29 +42,29 @@ Das Nahrungsergänzungsmittel L-Lysin wurde viele Jahre zusätzlich eingesetzt. 
 
 Im Lauf der Herpesinfektion können sich verschiedene Komplikationen entwickeln. 
 
-### Cornea nigra 
+### _Cornea nigra_ 
 
 Eine recht häufige Komplikation ist die sogenannte Hornhautnekrose. Sie entwickelt sich aus Hornhautdefekten, die im Zuge der Herpeserkrankung lange nicht ausheilen. Sie ist daran zu erkennen, dass sich die Hornhaut im betroffenen Bereich dunkelbraun bis schwarz verfärbt. In diesem Fall ist eine chirurgische Versorgung ratsam. 
 
-### Entropium 
+### _Entropium_ 
 
 Eine ebenfalls häufige Komplikation ist die Einrollung der Lider (Entropium). Dies entsteht durch das schmerzbedingte, spasmusartige Zukneifen der Augenlider. Die infolgedessen auf der Hornhaut reibenden Haare verschlimmern die Situation zusätzlich. Eine chirurgische Korrektur der Augenlider ist notwendig. 
 
-### Hornhautperforation 
+### _Hornhautperforation_ 
 
 Infiziert sich ein oberflächliches Herpesulcus mit Bakterien, vertieft es sich und kann im schlimmsten Fall perforieren. Ein solcher Defekt sollte chirurgisch versorgt werden, da hier das Sehvermögen und der Augenerhalt gefährdet sind. Je nach Ausmaß, kann hier ein Hornhaut- oder Bindehauttransplantat zum Einsatz kommen. 
 Symblepharon- Bindehautverwachsungen 
 
 Vor allem bei Katzenwelpen kann es schnell zu Verwachsungen der Bindehaut mit sich selbst, der Nickhaut oder der Hornhaut kommen. Dies kann, je nach Ausmaß, die Funktion der Lider und das Sehvermögen stark einschränken. Therapeutisch sind diese Verwachsungen nur unvollständig zu beeinflussen. Deshalb ist es besonders bei Welpen wichtig, vorbeugende Maßnahmen zu ergreifen, um das Symblepharon zu verhindern. 
 
-### Verschluss der Tränenwege 
+### _Verschluss der Tränenwege_ 
 
 Eine häufige Folge einer Herpesinfektion am Auge im Welpenalter ist, dass die ableitenden Tränenwege nicht mehr durchgängig sind. Dies ist in der Regel eine Folge von Verwachsungen der Bindehaut und oberen Tränenwege bei schwerwiegenden Entzündungen. Die Folge kann ein chronisch tränendes Auge sein. Eine chirurgische Therapie ist leider nicht immer erfolgreich. 
 Eosinophile Keratitis 
 
 Gleichzeitig oder nach überstandener Herpesinfektion kann es zu einer Hornhautentzündung (Keratitis) kommen. Diese wird vom eigenen Immunsystem ausgelöst und aufrecht erhalten. Die eosinophile Keratitis kann schnell fortschreiten und sogar zur Erblindung führen. Sie ist daran zu erkennen, dass eine Hornhauttrübung mit Blutgefäßen und häufig weißen Auflagerungen auf der Hornhaut auftritt. Sie ist nicht schmerzhaft und bedarf einer gesonderten Therapie. 
 
-### Trockenes Auge 
+### _Trockenes Auge_ 
 
 Trockene Augen sind bei Katzen deutlich seltener als beim Hund. Sie treten hier vor allem nach Herpesinfektionen des Auges auf. Deshalb ist es häufig nach überstandenen Infektionen notwendig, noch eine Zeit befeuchtende Augenmedikamente zu verabreichen. 
 

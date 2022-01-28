@@ -30,7 +30,7 @@ Das erste Symptom ist eine zarte Eintrübung zumeist im äußeren (temporalen) B
 {% endfigure %}
 
 {% figure caption:"**Abb. 3 :** Fortgeschrittenes Stadium mit Ödem der gesamten Hornhaut" %}
-![Auge mit vollständig trüber, undurchsichtiger Hornhaut](../assets/images/EDgrafik2.png)
+![Auge mit vollständig trüber, undurchsichtiger Hornhaut](../assets/images/edgrafik3.png)
 {% endfigure %}
 
 ## Diagnose

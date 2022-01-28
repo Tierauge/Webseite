@@ -2,7 +2,7 @@
 title: Irisatrophie
 layout: post
 post-image: "../assets/images/Irisatrophiebreit.jpg"
-description: Beschreibung, Diagnose, Symptome, Therapie.
+description: Eine typische Alterserscheinung beim Hund.
 ---
 
 Die Iris oder Regenbogenhaut reguliert die Größe der Pupille und somit den Lichteinfall in das Auge. Bei Lichteinfall verengt sich die Pupille, bei Dunkelheit ist sie weit.
