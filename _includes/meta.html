@@ -54,4 +54,10 @@
     ga('send', 'pageview');
 </script>
 <!-- End Google Analytics -->
-    
+
+{% if site.linked-data %}
+<script type="application/ld+json">
+{{site.linked-data}}
+</script>
+{% else %}
+{% endif %}

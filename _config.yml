@@ -67,6 +67,25 @@ open-fri: 13 - 18 Uhr
 open-sat:
 open-sun:
 
+linked-data: {
+      "@context": "https://schema.org",
+      "@type": "VeterinaryCare",
+      "name": "Augentierarzt Greifswald",
+      "description": "Tieraugenheilkunde, Veterinärophthalmologie, Augentierarzt, Tieraugenarzt, Augenuntersuchung und Augenoperation bei Tieren",
+      "slogan": "Tieraugenheilkunde",
+      "telephone": "+493834504672",
+      "email": "tierauge@gmail.com",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Greifswald",
+          "addressRegion": "MV",
+          "postalCode": "17489",
+          "streetAddress": "An den Wurthen 26"
+      },
+      "image": "https://tieraugen.doctor/assets/images/greifswald.jpg",
+    }
+
+
 
 excerpt_separator: "<!--excerpt-->"
 
