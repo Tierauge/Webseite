@@ -71,7 +71,6 @@ linked-data: {
       "@context": "https://schema.org",
       "@type": "VeterinaryCare",
       "name": "Augentierarzt Greifswald",
-      "medicalSpecialty": "Ophthalmology",
       "description": "Tieraugenheilkunde, Veterinärophthalmologie, Augentierarzt, Tieraugenarzt, Augenuntersuchung und Augenoperation bei Tieren",
       "slogan": "Tieraugenheilkunde",
       "telephone": "+493834504672",
