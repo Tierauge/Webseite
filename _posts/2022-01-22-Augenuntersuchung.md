@@ -149,3 +149,47 @@ Die Tränenproduktion wird mit speziellen Papierstreifen überprüft (Schirmer T
 {% picture assets/images/STT.png --alt Das Bild zeigt einen Papierstreifen mit einer Skala, den Schirmer Tränentest. %}
 
 {% endfigure %}
+
+## Fluoreszeintest
+
+Die Augenoberfläche, also die Hornhaut und Bindehaut, kann mit einem Farbstoff dem sog. Fluoreszein beurteilt werden. Liegt ein Hornhaut- oder Bindehautdefekt vor, färbt dieser sich gelbgrün. Aber auch eine raue, unebene Hornhautoberfläche kann mithilfe von Fluoreszein erkannt werden. In diesem Fall haftet der Farbstoff diffus auf der (normalerweise glatten) Oberfläche.
+
+{% figure caption:"mit Fluoreszein angefärbter Hornhautdefekt" %}
+
+{% picture assets/images/scced.jpg --alt Das Bild zeigt einen grün angefärbten Hornhautdefekt durch Fluoreszein. %}
+
+{% endfigure %}
+
+## Augenultraschall
+
+Ist der direkte Einblick in das innere Auge durch starke Trübungen nicht möglich, kommt der Augenultraschall zum Einsatz.
+Er wird beim grauen Star vor der Operation regelmäßig durchgeführt. Für den Ultraschall wird die Hornhaut mit Tropfen betäubt.
+Anschließend wird der Schallkopf mit einem Ultraschallgel auf die Augenoberfläche gebracht und die Untersuchung des inneren Auges ist möglich.
+
+
+{% figure caption:"Bild eines Augenultraschalls" %}
+
+{% picture assets/images/Bild19ausono1.png --alt Das Bild zeigt einen ultrasonografischen Schnitt durch das Auge. %}
+
+{% endfigure %}
+
+## Gonioskopie
+
+Die Gonioskopie ist die Kammerwinkeluntersuchung. Der Kammerwinkel ist der Abflussort für das ständig neu gebildete Kammerwasser und befindet sich zwischen Hornhaut und Iris. Es werden spezielle Linsen unter lokal betäubenden Augentropfen auf das Auge aufgebracht, die dann den Einblick in diesen Winkel erlauben. 
+Die Untersuchung des Kammerwinkels spielt vor allem beim Glaukom (grüner Star) eine wesentliche Rolle.  Missbildungen in diesem Bereich können (bei manchen Rassen besonders) zu einem hohen Augeninnendruck führen.
+
+{% figure caption:"Gonioskopie mit einer Koeppe-Linse" %}
+
+{% picture assets/images/Bild20augonio.png --alt Das Bild zeigt die Schritte der Kammerwinkeluntersuchung. Zuerst wird ein Gel auf die Koeppe-Linse aufgetragen und dann die Linse auf das Auge gesetzt. Mit der Spaltlampe wird dann der Kammerwinkel untersucht.%}
+
+{% endfigure %}
+
+## ERG- Elektroretinogramm
+
+Das ERG (Elektroretinogramm) ist ein Funktionstest der Netzhaut. Dabei werden Lichtblitze ins Auge geleitet und Elektroden leiten die Antwort der Netzhaut auf den Lichtreiz ab. Die angezeigte Kurve lässt eine Aussage über die Funktionsfähigkeit der Retina zu. Das ERG kommt vor allem vor Operationen des grauen Stares zum Einsatz. Außerdem erlaubt es häufig die Unterscheidung zwischen okulärer und zentraler Blindheit, also ob die Blindheit durch einen Funktionsverlust der Netzhaut zustande kommt oder die Ursachen eher im Bereich der Sehnerven und des Gehirns zu suchen sind. 
+
+{% figure caption:" normale ERG-Kurve" %}
+
+{% picture assets/images/ERG.png --alt Das Bild zeigt einen Monitor mit einer normalen ERG-Kurve.%}
+
+{% endfigure %}
