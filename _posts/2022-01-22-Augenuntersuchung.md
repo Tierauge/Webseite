@@ -146,7 +146,20 @@ Die Tränenproduktion wird mit speziellen Papierstreifen überprüft (Schirmer T
 
 {% figure caption:"Schirmer Tränenteststreifen" %}
 
-{% picture assets/images/STT.png --alt Das Bild zeigt einen Papierstreifen mit einer Skala, den Schirmer Tränentest. %}
+{% picture assets/images/STT-stripe2.jpg --alt Das Bild zeigt einen Papierstreifen mit einer Skala, den Schirmer Tränentest. %}
+
+{% endfigure %}
+
+
+{% figure caption:"Hund Fee beim Schirmer Tränentest" %}
+
+{% picture assets/images/STT1.jpg --alt Das Bild zeigt einen Hund mit einem Schirmer Tränentest-Streifen im Auge. %}
+
+{% endfigure %}
+
+{% figure caption:"Der Schirmer Tränentest-Streifen färbt sich blau durch die Tränenflüssigkeit, das erleichtert das Ablesen der Sklala." %}
+
+{% picture assets/images/STT2.jpg --alt Das Bild zeigt einen Hund mit einem Schirmer Tränentest-Streifen im Auge. %}
 
 {% endfigure %}
 
@@ -154,9 +167,61 @@ Die Tränenproduktion wird mit speziellen Papierstreifen überprüft (Schirmer T
 
 Die Augenoberfläche, also die Hornhaut und Bindehaut, kann mit einem Farbstoff dem sog. Fluoreszein beurteilt werden. Liegt ein Hornhaut- oder Bindehautdefekt vor, färbt dieser sich gelbgrün. Aber auch eine raue, unebene Hornhautoberfläche kann mithilfe von Fluoreszein erkannt werden. In diesem Fall haftet der Farbstoff diffus auf der (normalerweise glatten) Oberfläche.
 
+{% figure caption:"Fluoreszein Teststreifen" %}
+
+{% picture assets/images/Fl-stripe.jpg --alt Das Bild zeigt einen grün angefärbten Hornhautdefekt durch Fluoreszein. %}
+
+{% endfigure %}
+
+{% figure caption:"Fluoreszeintest - Der Streifen gibt den Farbstoff Fluorszein auf die Augenoberfläche ab." %}
+
+{% picture assets/images/FP.jpg --alt Das Bild zeigt einen grün angefärbten Hornhautdefekt durch Fluoreszein. %}
+
+{% endfigure %}
+
 {% figure caption:"mit Fluoreszein angefärbter Hornhautdefekt" %}
 
-{% picture assets/images/scced.jpg --alt Das Bild zeigt einen grün angefärbten Hornhautdefekt durch Fluoreszein. %}
+{% picture assets/images/Ulcus.jpg --alt Das Bild zeigt einen grün angefärbten Hornhautdefekt durch Fluoreszein. %}
+
+{% endfigure %}
+
+## Untersuchung der Tränenwege
+
+Häufig stellt sich die Frage, ob die tränenableitenden Wege unserer Patienten durchgängig sind oder ein Verschluss vorliegt. Das geht mithilfe des Farbstoffs Fluoreszein. Gibt man ihn in die Augen, fließt er über die Tränenpunkte in den Lidern über den Tränennasengang in die Nase ab und kann dann an den Nasenöffnungen gesehen werden (Jones Test 1). 
+
+{% figure caption:"Überprüfung der Tränenwege mit Fluoreszein: Bei Kater 'Krebs' kommt der Farbstoff an der Nasenöffnung an, die Tränenwege sind frei." %}
+
+{% picture assets/images/Jones-Test1.jpg --alt Das Bild zeigt einen grün angefärbten Hornhautdefekt durch Fluoreszein. %}
+
+{% endfigure %}
+
+Häufig ist zusätzlich die Spülung der Tränenwege notwendig, um ihre Durchgängigkeit endgültig festzustellen. Hierfür werden, nach lokalen Betäubungstropfen, spezielle Sonden in die Tränenpunkte eingeführt und Flüssigkeit in die Tränenwege gegeben. Danach wird überprüft, ob Flüssigkeit aus den Nasenöffnungn austritt. Der Test wird in der Regel gut toleriert.
+
+{% figure caption:"Verschiedene Tränenwegssonden" %}
+
+{% picture assets/images/Tng-Sonden2.jpg --alt Das Bild zeigt 3 verschiedene Tränenwegssonden aus Metall. %}
+
+{% endfigure %}
+
+{% figure caption:"Einführen einer Sonde in den oberen Tränenpunkt" %}
+
+{% picture assets/images/Tng-Sondierung.jpg --alt Das Bild zeigt wie eine weiche Sonde in den oberen Tränenpunkt eines Hundes eingeführt wird. %}
+
+{% endfigure %}
+
+## Untersuchung der Nickhaut
+
+Unsere Haustiere haben ein Augenlid mehr als wir, das dritte Augenlid oder Nickhaut. Dahinter verstecken sich häufig Fremdkörper, die bei der Untersuchung nicht übersehen werden dürfen. Nach Eingabe von lokal betäubenden Augentropfen wird die Nickhaut mit einer speziellen Pinzette (z.B. Gräfe-Pinzette) vorgezogen und kann genau untersucht werden.
+
+{% figure caption:"Gräfe-Pinzette" %}
+
+{% picture assets/images/Graefe.jpg --alt Das Bild zeigt ein Foto einer Gräfe-Pinzette. %}
+
+{% endfigure %}
+
+{% figure caption:"Ein Fremdkörper befindet sich hinter der vorgezogenen Nickhaut." %}
+
+{% picture assets/images/Graefe2.jpg --alt Das Bild zeigt, wie die Nickhaut eines Hundes vorgezogen wird und sich dahinter ein Fremdkörper befindet. %}
 
 {% endfigure %}
 
