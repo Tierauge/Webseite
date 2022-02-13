@@ -77,12 +77,29 @@ linked-data: >
       "slogan": "Tieraugenheilkunde",
       "telephone": "+493834504672",
       "email": "tierauge@gmail.com",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Greifswald",
-        "addressRegion": "MV",
-        "postalCode": "17489",
-        "streetAddress": "An den Wurthen 26"
+      "sameAs": [
+        "https://www.facebook.com/tieraugendoc",
+        "https://twitter.com/Tieraugendoc",
+        "https://www.fvo-vet.de/foerderpreis.htm",
+      ],
+      "openingHours":[
+        "Mo 12:00-17:00",
+        "Di 09:00-14:00",
+        "Mi 09:00-14:00",
+        "Fr 13:00-18:00"
+      ],
+      "member": [
+      {
+        "@type": "parentOrganization"
+        "name": "Tierarztpraxis Quandt und Bracke",
+        "url": "https://www.tieraerzte-quandtundbracke.de"
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Greifswald",
+          "addressRegion": "MV",
+          "postalCode": "17489",
+          "streetAddress": "An den Wurthen 26"
+        },
       },
       "image": "https://tieraugen.doctor/assets/images/greifswald.jpg"
     }
