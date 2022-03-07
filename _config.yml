@@ -80,7 +80,7 @@ linked-data: >
       "sameAs": [
         "https://www.facebook.com/tieraugendoc",
         "https://twitter.com/Tieraugendoc",
-        "https://www.fvo-vet.de/foerderpreis.htm",
+        "https://www.fvo-vet.de/foerderpreis.htm"
       ],
       "openingHours":[
         "Mo 12:00-17:00",
@@ -90,17 +90,17 @@ linked-data: >
       ],
       "member": [
       {
-        "@type": "parentOrganization"
+        "@type": "parentOrganization",
         "name": "Tierarztpraxis Quandt und Bracke",
-        "url": "https://www.tieraerzte-quandtundbracke.de"
+        "url": "https://www.tieraerzte-quandtundbracke.de",
         "address": {
           "@type": "PostalAddress",
           "addressLocality": "Greifswald",
           "addressRegion": "MV",
           "postalCode": "17489",
           "streetAddress": "An den Wurthen 26"
-        },
-      },
+        }
+      }],
       "image": "https://tieraugen.doctor/assets/images/greifswald.jpg"
     }
 
