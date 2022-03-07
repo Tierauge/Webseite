@@ -28,8 +28,8 @@
             <!--Link Section-->
             <div class="column has-text-white">
                 <h3>Mehr</h3>
-                {% for sitepage in site.html_pages offset: 4 %}
-                {% unless sitepage.url == '/'  limit: 2 %}
+                {% for sitepage in site.html_pages offset: 1 %}
+                {% unless sitepage.url == '/'  limit: 3 %}
                 <li>
                     <a href="{{sitepage.url | absolute_url}}">{{sitepage.title}}</a>
                 </li>

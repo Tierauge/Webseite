@@ -13,15 +13,15 @@ layout: compress
     <section class="hero is-fullheight" id="blog">
         <div class="hero-body">
             <div class="container">
-                {% include blogpage-heading.html %}
+                {% include storypage-heading.html %}
             </div>
         </div>
         <div id="results-container"></div>
         <!--Blog Cards Section-->
         {% for post in site.posts %}
-        {% unless post.tags contains "Patientengeschichte" %}
+        {% if post.tags contains "Patientengeschichte" %}
         {% include blog-card.html %}
-        {% endunless %}
+        {% endif %}
         {% endfor %}
         </div>
     </section>

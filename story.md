@@ -1,0 +1,5 @@
+---
+title: Story
+layout: story
+---
+
