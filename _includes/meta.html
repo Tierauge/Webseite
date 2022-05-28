@@ -28,7 +28,11 @@
 <meta name="twitter:creator" content="@{{site.twitter_username}}">
 <meta name="twitter:image:src"
     content="{{site.url}}{% unless page.layout == 'post' %}{{site.site-image | replace: '../', '/' }}{% else %}{{page.post-image | replace: '../', '/'}}{% endunless %}">
-<!-- Search Engine -->
+<meta name="twitter:image"
+    content="{{site.url}}{% unless page.layout == 'post' %}{{site.site-image | replace: '../', '/' }}{% else %}{{page.post-image | replace: '../', '/'}}{% endunless %}">
+
+
+    <!-- Search Engine -->
 <meta name="description"
     content="{% unless page.layout == 'post' %}{{site.meta-description}}{% else %}{{page.description}}{% endunless %}">
 <meta name="image"
