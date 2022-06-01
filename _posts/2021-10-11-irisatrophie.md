@@ -1,7 +1,7 @@
 ---
 title: Irisatrophie
 layout: post
-post-image: "../assets/images/Irisatrophie4.jpg"
+post-image: "../assets/images/Irisatrophiebreit.jpg"
 description: Eine typische Alterserscheinung beim Hund.
 ---
 
