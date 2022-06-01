@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://tieraugen.doctor/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tieraugen.doctor/" rel="alternate" type="text/html" /><updated>2022-06-01T19:36:39+02:00</updated><id>https://tieraugen.doctor/feed.xml</id><title type="html">Augentierarzt Greifswald</title><subtitle>&lt;br/&gt;Augenerkrankungen sind bei unseren Haustieren sehr häufig. Eine spezialisierte Diagnostik und zielgerichtete Therapie sind entscheidend.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://tieraugen.doctor/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tieraugen.doctor/" rel="alternate" type="text/html" /><updated>2022-06-01T19:46:14+02:00</updated><id>https://tieraugen.doctor/feed.xml</id><title type="html">Augentierarzt Greifswald</title><subtitle>&lt;br/&gt;Augenerkrankungen sind bei unseren Haustieren sehr häufig. Eine spezialisierte Diagnostik und zielgerichtete Therapie sind entscheidend.
 &lt;br/&gt;&lt;br/&gt;Auf dieser Webseite finden Sie interessante Informationen über gängige Augenerkrankungen von Hunden, Katzen und Heimtieren in der Wissensbank.</subtitle><entry><title type="html">Augenschäden durch Bluthochdruck - Hypertensive Retinopathie der Katze</title><link href="https://tieraugen.doctor/blog/bluthochdruck" rel="alternate" type="text/html" title="Augenschäden durch Bluthochdruck - Hypertensive Retinopathie der Katze" /><published>2022-06-01T00:00:00+02:00</published><updated>2022-06-01T00:00:00+02:00</updated><id>https://tieraugen.doctor/blog/bluthochdruck</id><content type="html" xml:base="https://tieraugen.doctor/blog/bluthochdruck"><![CDATA[<p>Bluthochdruck ist ein häufiges Problem bei Katzen ab dem 10. Lebensjahr. Er bleibt zumeist lange unbemerkt. Häufig ist das erste auffällige Symptom die plötzliche Erblindung der Katzen oder sichtbare Blutungen im Auge.</p>
 
 <!--excerpt-->
@@ -114,7 +114,7 @@ Ist es zu ausgedehnten Blutungen im hinteren Augenabschnitt gekommen, ist die Pr
 <!--excerpt-->
 
 <figure>
-<p><img src="../assets/images/Abbyinitial.JPG" alt="Katzenauge mit dunkler Schuppe in der Mitte, dabei handelt es sich um die Cornea nigra." /></p>
+<p><img src="../assets/images/Abbyinitial.jpg" alt="Katzenauge mit dunkler Schuppe in der Mitte, dabei handelt es sich um die Cornea nigra." /></p>
   <figcaption><strong>Abb. 1 :</strong> Abbys rechtes Auge mit Cornea nigra. Im Zentrum der Hornhaut sieht man den dunkelbraunen Sequester und ein tiefes Ulcus (Loch). Die Hornhaut ist eingetrübt.</figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ Ist es zu ausgedehnten Blutungen im hinteren Augenabschnitt gekommen, ist die Pr
 <p>Abbys Hornhaut ist gut verheilt. Die Heilungsphase dauert ca. 3 Wochen. Einige Monate später ist das Auge so klar geworden, dass man auf den ersten Blick überhaupt nichts mehr sieht.</p>
 
 <figure>
-<p><img src="../assets/images/Abby2Wopost.JPG" alt="Foto des 2 Wochen postoperativen Zustandes von Abbys Auge." /></p>
+<p><img src="../assets/images/Abby2Wopost.jpg" alt="Foto des 2 Wochen postoperativen Zustandes von Abbys Auge." /></p>
   <figcaption><strong>Abb. 3 :</strong> Abbys Auge 2 Wochen nach OP. Die Hornhaut ist noch etwas verdickt und reaktiv durch den Heilungsprozess.</figcaption>
 </figure>
 
@@ -635,11 +635,11 @@ Gleichzeitig kann in der Operation eine sogenannte Kryotherapie (Kältetherapie)
 Zusätzlich zur Operation ist in den meisten Fällen eine dauerhafte Gabe von Augentropfen sinnvoll, um einen möglichst lebenslangen Erfolg zu erreichen.</p>
 
 <figure>
-<p><img src="../assets/images/Mops1.png" alt="Lidrandtumor-OP" /></p>
+<p><img src="../assets/images/mops1.png" alt="Lidrandtumor-OP" /></p>
   <figcaption><strong>Abb. 1 :</strong> Vor der OP</figcaption>
 </figure>
 
 <figure>
-<p><img src="../assets/images/Mops2.png" alt="Lidrandtumor-OP" /></p>
+<p><img src="../assets/images/mops2.png" alt="Lidrandtumor-OP" /></p>
   <figcaption><strong>Abb. 2 :</strong> Nach der OP. Nach der Operation ist die Lidspalte kleiner und die Augen deutlich besser geschützt. Es reiben keine Haare mehr auf der Hornhaut.</figcaption>
 </figure>]]></content><author><name></name></author><category term="" /><summary type="html"><![CDATA[Was ist das und wie kann es therapiert werden?]]></summary></entry></feed>
