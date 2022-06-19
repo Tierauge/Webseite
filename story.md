@@ -1,5 +1,5 @@
 ---
-title: Story
+title: Patientengeschichten
 layout: story
 ---
 

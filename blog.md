@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Wissensbank
 layout: blog
 ---
 

@@ -35,9 +35,29 @@
                 </li>
                 {% endunless %}
                 {% endfor %}
-                <li>
+                <!--li>
                     <a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">Subscribe via RSS</a>
+                </li-->
+
+                {% unless site.facebook_username == %}
+                <li>
+                    <a href="https://www.facebook.com/{{site.facebook_username}}"
+                       class=""
+                       target="_blank">
+                        Facebook <i class="fa fa-facebook"></i>
+                    </a>
                 </li>
+                {% endunless %}
+
+                {% unless site.twitter_username == %}
+                <li>
+                    <a href="https://www.twitter.com/{{site.twitter_username}}"
+                       class=""
+                       target="_blank">
+                        Twitter <i class="fa fa-twitter"></i> 
+                    </a>
+                </li>
+                {% endunless %}
             </div>
 
             <!--Blog-post Section-->
