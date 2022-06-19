@@ -98,7 +98,12 @@ linked-data: >
           "addressLocality": "Greifswald",
           "addressRegion": "MV",
           "postalCode": "17489",
-          "streetAddress": "An den Wurthen 26"
+          "streetAddress": "An den Wurthen 26",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "54.097170",
+            "longitude": "13.397257"
+          }
         }
       }],
       "image": "https://tieraugen.doctor/assets/images/greifswald.jpg"
