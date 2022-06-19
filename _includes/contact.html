@@ -44,6 +44,24 @@
                 <i class="fa fa-mobile"></i> {{site.mobile}}
             </a>
             {% endunless %}
+
+            <hr>
+
+            {% unless site.facebook_username == %}
+            <a id="contact-button" href="https://www.facebook.com/{{site.facebook_username}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fa fa-facebook"></i> facebook
+            </a>
+            {% endunless %}
+
+            {% unless site.twitter_username == %}
+            <a id="contact-button" href="https://twitter.com/{{site.twitter_username}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fa fa-twitter"></i> Twitter
+            </a>
+            {% endunless %}
             
         </div>
     </div>
