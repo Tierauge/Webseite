@@ -15,7 +15,7 @@ DIE [VORTRÄGE](#vorträge) FINDEN SIE ZUM DOWNLOAD UNTEN AUF DER SEITE.
 
 <!--excerpt-->
 
-<iframe src="/assets/misc/2022/Einladung-Mittwochsfortbildung.pdf" width="100%" height="500px" style="max-width: 100% !important">
+<iframe src="../assets/misc/2022/Einladung-Mittwochsfortbildung.pdf" width="100%" height="500px" style="max-width: 100% !important">
 </iframe>
 
 ## Vorträge
