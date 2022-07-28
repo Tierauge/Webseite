@@ -20,9 +20,9 @@ DIE [VORTRÄGE](#vorträge) FINDEN SIE ZUM DOWNLOAD UNTEN AUF DER SEITE.
 
 ## Vorträge
 
-1. [Hornhautulcera - was, wie, wann, warum? - Dr. S. Sahr](../assets/misc/2022/Hornhautulcera-wann_wie_was_warum.pdf)
-2. [Intraokuläre Blutung und Hypertensive Retinopathie - Dr. S. Sahr](../assets/misc/2022/Intraokuläre_Blutung_und_Hypertensive_Retinopathie.pdf)
-3. [Hinterhandlahmheitender Katze - Orthopädisch oder Neurologisch? - Dr. A. Quandt](../assets/misc/2022/Hinterhandlahmheiten_Katze.pdf)
-4. [Innere Ursachen für Lahmheit - Dr. A. Bracke](../assets/misc/2022/internist-lahmht-katze.pptx)
-5. [Uveitis und Glaukom, erkennen und erstversorgen - Dr. S. Sahr](../assets/misc/2022/Uveitis_und_Glaukom.pdf)
-6. [Bulbusprolaps- ein kurzer Abriss - Dr. S. Sahr](../assets/misc/2022/Bulbusprolaps.pdf)
+1. [Hornhautulcera - was, wie, wann, warum? - S. Sahr](../assets/misc/2022/Hornhautulcera-wann_wie_was_warum.pdf)
+2. [Intraokuläre Blutung und Hypertensive Retinopathie - S. Sahr](../assets/misc/2022/Intraokuläre_Blutung_und_Hypertensive_Retinopathie.pdf)
+3. [Hinterhandlahmheitender Katze - Orthopädisch oder Neurologisch? - A. Quandt](../assets/misc/2022/Hinterhandlahmheiten_Katze.pdf)
+4. [Innere Ursachen für Lahmheit - A. Bracke](../assets/misc/2022/internist-lahmht-katze.pptx)
+5. [Uveitis und Glaukom, erkennen und erstversorgen - S. Sahr](../assets/misc/2022/Uveitis_und_Glaukom.pdf)
+6. [Bulbusprolaps- ein kurzer Abriss - S. Sahr](../assets/misc/2022/Bulbusprolaps.pdf)
