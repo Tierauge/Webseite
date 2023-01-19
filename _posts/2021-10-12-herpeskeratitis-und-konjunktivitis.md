@@ -13,12 +13,12 @@ Chlamydien und Mykoplasmen sind bakterielle Erreger, die innerhalb der Zellen le
 
 ## AUSLÖSER
 
-Direkter Kontakt ist in der Regel für die Übertragung notwendig. Das Herpesvirus kann längere Zeit in Katzen persistieren ohne Symptome zu verursachen (latent), bis ein Auslöser autritt. Intermittierende Virusreaktivierung ist häufig.  
+Direkter Kontakt ist in der Regel für die Übertragung notwendig. Das Herpesvirus kann längere Zeit in Katzen persistieren ohne Symptome zu verursachen (latent). Intermittierende Virusreaktivierung ist häufig.  
 Ein wesentlicher Faktor bei der Entwicklung einer Herpeskeratitis oder -konjunktivitis ist Stress, der das Immunsystem schwächt. Typische Auslöser einer Herpeskeratitis sind eine Zahnsanierung, eine Urlaubsreise der Besitzer, Familienzuwachs oder ein Umzug. Je nach Sensibilität des Tieres können schon kleinere Stressoren wie ein neues Möbelstück ausreichend sein. Auch andere Erkrankungen, die das Wohlbefinden oder Immunsystem beeinträchtigen, wie juckende Hauterkrankungen, Zahnschmerzen, Infektionserkrankungen o.a. können als Auslöser fungieren. 
 
 ## SYMPTOME
 
-Betroffene Katzen zeigen häufig eine schnell entstehende Bindehautschwellung, sie kneifen das betroffene Auge zusammen und weisen vermehrten Tränenfluss auf. Die Symptome können sich dann auf beide Augen ausweiten, das in der Regel bei C.felis der Fall. Während sich M.felis und C.felis auf die Bindehaut beschränken, können sich bei Herpesvirusinfekten Hornhauttrübungen und -defekte bemerkbar machen.
+Betroffene Katzen zeigen häufig eine schnell entstehende Bindehautschwellung, sie kneifen das betroffene Auge zusammen und weisen vermehrten Tränenfluss auf. Die Symptome können sich dann auf beide Augen ausweiten, das ist bei Chlamydophila felis häufig der Fall. Während sich Mycoplasma felis und Chlamydophila felis auf die Bindehaut beschränken, können sich bei Herpesvirusinfekten Hornhauttrübungen und -defekte bemerkbar machen.
 
 Sind nicht nur die Augen betroffen, können auch Niesen und Nasenausfluss hinzukommen (Katzenschnupfen). Dies ist häufig bei Infektionen im Welpenalter der Fall. Besonders sehr junge Katzen zeigen häufig einen schweren Verlauf einer Herpesinfektion im Bereich der Augen mit tiefen Hornhautdefekten, die sogar perforieren können. Außerdem entstehen bei Welpen sehr schnell Verwachsungen der Bindehaut mit sich selbst oder der Hornhaut (Symblepharon). Diese können zu dauerhaften Seheinschränkungen führen. 
 
@@ -29,12 +29,12 @@ Die Diagnose wird bei der Augenuntersuchung durch die Anamnese und das Erscheinu
 ![Hochgradige Bindehautenzündung durch Herpesvirus](../assets/images/FHV3.jpg)
 {% endfigure %}
 
-Zusätzlich steht ein spezieller Test zur Verfügung (PCR), bei dem das Virus in einem Augenabstrich bestimmt werden kann. Leider kann dieser Test, wenn er negativ ausfällt, eine Herpesinfektion nicht ausschließen. Mykoplasmen und Chlamydien können auch bei gesunden Tieren vorkommen, sind aber bei Tieren mit Konjunktivitis häufiger anzutreffen.
+Zusätzlich steht ein spezieller Test zur Verfügung (PCR), bei dem die Erreger in einem Augenabstrich bestimmt werden können. Leider kann dieser Test, wenn er negativ ausfällt, eine Herpesinfektion nicht ausschließen. Mykoplasmen und Chlamydien können auch bei gesunden Tieren nachgewiesen werden, sind aber bei Tieren mit Konjunktivitis häufiger anzutreffen.
 
 ## THERAPIE
 
 Die Herpeskonjunktivitis (Bindehautentzündung) wird mit antiviralen Medikamenten (Tabletten und/oder Salbe) behandelt. Eine Viruselimination gelingt nicht. Bei sehr jungen Katzen ist das frühzeitige Lösen von Bindehautverklebungen entscheidend, um Verwachsungen zu vermeiden. Erwachsene Katzen neigen deutlich weniger zu diesen Verklebungen. 
-Mykoplasmen und Chlamydien sprechen gut auf die Therapie mit speziellen Antibiotika an (Tetrazykline). Um Chlamydien zu eliminieren, müssen diese aber 4 Wochen verabreicht werden, für Mykoplasmen können 6 Wochen notwendig sein. Bei Tieren im Wachstum und tragenden Tieren müssen andere Antibiotika zum Einsatz kommen, da Tetrazykline nicht gut veträglich sind (Azithromycin, Clindamycin, Marbofloxacin, Pradofloxacin). 
+Mykoplasmen und Chlamydien sprechen gut auf die Therapie mit speziellen Antibiotika an (Tetrazykline). Um Chlamydien zu eliminieren, müssen diese 4 Wochen verabreicht werden, für Mykoplasmen können 6 Wochen notwendig sein. Bei Tieren im Wachstum und tragenden Tieren müssen andere Antibiotika zum Einsatz kommen, da Tetrazykline nicht gut verträglich sind (Azithromycin, Clindamycin, Marbofloxacin, Pradofloxacin). 
 
 Ein Immunstimulanz kann unter die Haut injiziert und oral verabreicht werden, um die eigene Abwehr zu fördern. 
 
@@ -80,7 +80,8 @@ Vor allem bei Katzenwelpen kann es schnell zu Verwachsungen der Bindehaut mit si
 ### _Verschluss der Tränenwege_ 
 
 Eine häufige Folge einer Herpesinfektion am Auge im Welpenalter ist, dass die ableitenden Tränenwege nicht mehr durchgängig sind. Dies ist in der Regel eine Folge von Verwachsungen der Bindehaut und oberen Tränenwege bei schwerwiegenden Entzündungen. Die Folge kann ein chronisch tränendes Auge sein. Eine chirurgische Therapie ist leider nicht immer erfolgreich. 
-Eosinophile Keratitis 
+
+### _Eosinophile Keratitis_ 
 
 Gleichzeitig oder nach überstandener Herpesinfektion kann es zu einer Hornhautentzündung (Keratitis) kommen. Diese wird vom eigenen Immunsystem ausgelöst und aufrecht erhalten. Die eosinophile Keratitis kann schnell fortschreiten und sogar zur Erblindung führen. Sie ist daran zu erkennen, dass eine Hornhauttrübung mit Blutgefäßen und häufig weißen Auflagerungen auf der Hornhaut auftritt. Sie ist nicht schmerzhaft und bedarf einer gesonderten Therapie. 
 
