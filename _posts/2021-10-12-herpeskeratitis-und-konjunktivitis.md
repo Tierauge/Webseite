@@ -1,5 +1,5 @@
 ---
-title: Infektiöse Binde- und Hornhautentzündung der Katze (Keratitis, Konjunktivitis)
+title: Infektiöse Binde- und Hornhautentzündung der Katze<br>(Keratitis, Konjunktivitis)
 layout: post
 post-image: "../assets/images/Katze_burningeyes_breit.jpg"
 description: Überblick über Symptome, Therapie und Komplikationen der häufigsten Augenerkrankung.
