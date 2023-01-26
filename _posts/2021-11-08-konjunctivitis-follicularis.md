@@ -1,7 +1,7 @@
 ---
 title: Konjunktivitis follicularis - Junghundbindehautentzündung
 layout: post
-post-image: "../assets/images/Welpe.jpg"
+post-image: "../assets/images/puppy.jpg"
 description: Abwarten oder therapieren?
 ---
 
@@ -35,5 +35,9 @@ Chirurgische Behandlung: Die chirurgische Therapie ist eine sog. Kürretage (Aus
 
 Die Konjunktivitis follicularis hat eine sehr gute Prognose. Die Symptome können in der Regel mit spülenden Augentropfen gelindert und kontrolliert werden bis die Selbstheilung mit 1-2 Jahren eintritt. Bei einigen, etwas stärker betroffenen Patienten, sind wiederholte Behandlungen mit antibiotika- und/oder entzündungshemmenden Augentropfen bis zur endgültigen Besserung notwendig. 
 Bleiben aber über die üblichen Altersgrenzen hinaus Beschwerden bestehen, sollte eine Allergieabklärung hinsichtlich Pollen- und Milbenallergien eingeleitet werden. 
+
+
+![puppy](../assets/images/puppy2.jpg)
+
 
 	
