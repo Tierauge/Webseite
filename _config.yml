@@ -59,11 +59,11 @@ facebook_username: TieraugenDoc
 # Adds id for google analytics
 google-analytics: G-HB6RDYDEHG
 
-open-mon: 12 - 17 Uhr
-open-tue: 9 - 14 Uhr
-open-wed: 9 - 14 Uhr
-open-thr:
-open-fri: 13 - 18 Uhr
+open-mon: 13 - 18 Uhr
+open-tue: 8 - 14 Uhr
+open-wed:
+open-thr: 8 - 11 Uhr
+open-fri: 13 - 19 Uhr
 open-sat:
 open-sun:
 
@@ -83,10 +83,11 @@ linked-data: >
         "https://www.fvo-vet.de/foerderpreis.htm"
       ],
       "openingHours":[
-        "Mo 12:00-17:00",
-        "Di 09:00-14:00",
-        "Mi 09:00-14:00",
-        "Fr 13:00-18:00"
+        "Mo 13:00-18:00",
+        "Di 08:00-14:00",
+        "Mi 10:00-"
+        "DO 08:00-12:00"
+        "Fr 13:00-19:00"
       ],
       "member": [
       {
@@ -105,7 +106,25 @@ linked-data: >
             "longitude": "13.397257"
           }
         }
-      }],
+      },
+      {
+        "@type": "parentOrganization",
+        "name": "Tierarztpraxis für Kleintiere Dipl.-Vet.-Med. Andrea Lehmann",
+        "url": "https://lehmann-tierarzt.de",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Neubrandenburg",
+          "addressRegion": "MV",
+          "postalCode": "17033",
+          "streetAddress": "Fritz-Reuter-Straße 7",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "53.560294345675",
+            "longitude": "13.2548445529906"
+          }
+        }
+      }
+      ],
       "image": "https://tieraugen.doctor/assets/images/greifswald.jpg"
     }
 

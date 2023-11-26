@@ -7,9 +7,23 @@
             </h3>
             Dr. med. vet. Sabine Sahr
             
-            <hr/>
+          
+            {% unless site.email == %}
+            <a id="contact-button" href="mailto:{{site.email}}"
+                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fas fa-envelope"></i> {{site.email}}
+            </a>
+            {% endunless %}
+           
             
-            • Tierarztpraxis Quandt und Bracke • 
+           
+
+            <div class="container2">
+                
+                <div class="box2">
+                    <hr/>
+                    • Tierarztpraxis Quandt und Bracke • 
             <br />
             An den Wurthen 26
             <br />
@@ -22,13 +36,7 @@
                 <i class="fas fa-link"></i> tieraerzte-quandtundbracke.de
             </a>
 
-            {% unless site.email == %}
-            <a id="contact-button" href="mailto:{{site.email}}"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
-                target="_blank">
-                <i class="fas fa-envelope"></i> {{site.email}}
-            </a>
-            {% endunless %}
+           
             {% unless site.phone == %}
             <a id="contact-button" href="tel:{{site.phone}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
@@ -45,24 +53,55 @@
             </a>
             {% endunless %}
 
-            <hr>
 
-            {% unless site.facebook_username == %}
-            <a id="contact-button" href="https://www.facebook.com/{{site.facebook_username}}"
+                </div>
+                <div class="line2"></div>
+                <div class="box2">
+                    <hr/>
+                    • Tierarztpraxis für Kleintiere Dipl.-Vet.-Med. Andrea Lehmann •
+                    <br />
+                    Fritz - Reuter- Straße 7
+                    <br />
+                    17033 Neubrandenburg
+
+                    <hr/>
+
+                    <a id="contact-button" href="https://www.lehmann-tierarzt.de"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fa fa-facebook"></i> facebook
+                <i class="fas fa-link"></i> lehmann-tierarzt.de
             </a>
-            {% endunless %}
 
-            {% unless site.twitter_username == %}
-            <a id="contact-button" href="https://twitter.com/{{site.twitter_username}}"
+            <a id="contact-button" href="tel:+49 395 54426-04"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fa fa-twitter"></i> Twitter
+                <i class="fas fa-phone"></i> +49 395 5442604 
             </a>
-            {% endunless %}
-            
+
+
+                </div>
+               </div>
+
+               <hr />
+
+               
+   
+               {% unless site.facebook_username == %}
+               <a id="contact-button" href="https://www.facebook.com/{{site.facebook_username}}"
+                   class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                   target="_blank">
+                   <i class="fa fa-facebook"></i> facebook
+               </a>
+               {% endunless %}
+   
+               {% unless site.twitter_username == %}
+               <a id="contact-button" href="https://twitter.com/{{site.twitter_username}}"
+                   class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                   target="_blank">
+                   <i class="fa fa-twitter"></i> Twitter
+               </a>
+               {% endunless %}
+   
         </div>
     </div>
 </section>
