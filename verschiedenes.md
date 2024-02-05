@@ -1,5 +1,5 @@
 ---
-title: Verschiedenes
+title: Vorträge, Poster, Publikationen
 layout: verschiedenes
 ---
 
