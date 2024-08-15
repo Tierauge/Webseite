@@ -7,6 +7,14 @@ layout: compress
 {% include head.html %}
 
 <body>
+  <!-- Modal HTML -->
+  <dialog id="infoModal" open>
+    <form method="dialog">
+      <p>Liebe Patientenbesitzer! Ich bin geplant ab November wieder für Sie da. DOK- Zuchtuntersuchungen versuche ich weiterhin durchzuführen. Anfragen hierzu bitte direkt per mail an tierauge@gmail.com.</p>
+      <button>OK</button>
+    </form>
+  </dialog>
+
   {% include navbar.html %}
   {% include showcase.html %}
   {% include about.html %}
@@ -15,7 +23,40 @@ layout: compress
   {% include anfahrt.html %}
   <!--Footer begins here-->
   {% include footer.html %}
+
+  <!-- Modal CSS -->
+  <!-- Modal CSS -->
+  <style>
+    dialog {
+      padding: 20px;
+      border: 1px solid #888;
+      border-radius: 5px;
+      max-width: 600px;
+      width: 90%;
+      text-align: center;
+      
+      /* Centering styles */
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      
+      /* Set z-index */
+      z-index: 100;
+    }
+
+    dialog::backdrop {
+      background-color: rgba(0, 0, 0, 0.4);
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      cursor: pointer;
+    }
+  </style>
 </body>
+
 <script>
   window.addEventListener("scroll", function (event) {
     var scroll = this.scrollY;
