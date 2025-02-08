@@ -59,11 +59,11 @@ facebook_username: TieraugenDoc
 # Adds id for google analytics
 google-analytics: G-HB6RDYDEHG
 
-open-mon: 13 - 18 Uhr
-open-tue: 8 - 14 Uhr
-open-wed:
-open-thr: 8 - 11 Uhr
-open-fri: 13 - 19 Uhr
+open-mon:
+open-tue:
+open-wed: 12:30 - 14:30
+open-thr:
+open-fri: 12:30 - 14:30
 open-sat:
 open-sun:
 
@@ -83,11 +83,8 @@ linked-data: >
         "https://www.fvo-vet.de/foerderpreis.htm"
       ],
       "openingHours":[
-        "Mo 13:00-18:00",
-        "Di 08:00-14:00",
-        "Mi 10:00-"
-        "DO 08:00-12:00"
-        "Fr 13:00-19:00"
+        "Mi 12:30-14:30",
+        "Fr 12:30-14:30"
       ],
       "member": [
       {
